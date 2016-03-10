@@ -1,0 +1,10 @@
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+TAGS: { @Someday(s) @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
+
+
+* BOOK TO READ                                                     :@Someday:
+* THINGS TO DO                                                     :@Someday:
+* Someday                                                          :@Someday:
+** TODO [#C] 画水彩                                            :@Dormitory:
+** TODO [#B]Learn git and github
