@@ -116,8 +116,69 @@ register 寄存器
 blindly 盲目的
 perform 执行
 dictated 命令
-contiguous连续的
-revolve循环
-arithmetic算法
-request请求
-overwriting覆盖
+contiguous 连续的
+revolve 循环
+arithmetic 算法
+request 请求
+overwriting 覆盖
+malloc 分配内存
+nonetheless 但是
+blissfully 幸福的
+unaware 意外的; 不知不觉
+practical 实用性
+ported 传输
+evolved 进化
+phenomenon 现象
+complete 完整的
+compliant 顺从的
+infrastructure 基础设施
+available 可获得的
+wristwatch 手表
+treated 对待;治疗
+isolated 独立的
+advent 出现
+instant 即时
+telnet 远程登录
+client 客户端
+exchange 交换
+conclude 结论;决定;推断
+whirlwind 旋风
+intertwined 错综复杂
+cooperate 合作
+ultimate 根本
+rest 剩余部分
+several 几个
+aspect 方面
+multiple 多种
+parallelism 平行
+demand 需求
+constant 不变得
+force 推断
+improvement 改进
+factor 因素
+refer 涉及;委托
+simultaneoush 同时
+devise 设计
+rapidly 迅速的
+juggler 骗子
+interact 相互作用
+engage 占用
+uniprocessor 单处理器
+commonplace 老生常谈
+taxonomy 分类
+categorizing 分类
+configuration 配置
+prevalent 流行
+hyperthreading 超线程
+integrated 整合
+industry 产业
+conventional 传统的
+shift 移动
+resource 资源
+proceed 开始
+simulate模仿的
+expect期待
+thus因此
+principle原理
+formulated表述
+desire欲望
