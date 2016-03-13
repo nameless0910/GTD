@@ -11,8 +11,10 @@
 :PROPERTIES:
 :CATEGORY: BOOK
 :END:
-** TODO [#A] CSAPP[0%]                                         :@Dormitoryc: 
+** TODO [#A] CSAPP[100%]                                       :@Dormitoryc: 
 :LOGBOOK:
+CLOCK: [2016-03-13 Sun 16:09]--[2016-03-13 Sun 16:34] =>  0:25
+CLOCK: [2016-03-13 Sun 15:31]--[2016-03-13 Sun 15:56] =>  0:25
 CLOCK: [2016-03-12 Sat 22:32]--[2016-03-12 Sat 22:34] =>  0:02
 CLOCK: [2016-03-12 Sat 22:07]--[2016-03-12 Sat 22:32] =>  0:25
 CLOCK: [2016-03-12 Sat 21:34]--[2016-03-12 Sat 22:00] =>  0:26
@@ -21,19 +23,21 @@ CLOCK: [2016-03-09 Wed 20:57]--[2016-03-09 Wed 21:22] =>  0:25
 CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
 CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 :END:
-1. [ ] A Tour of Computer Systems[0%]
+1. [X] A Tour of Computer Systems
+2. [ ] Representing and Manipulating Information 
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 - State "TODO"       from              [2016-03-07 Mon 20:30]
 ** TODO [#A]计算机网络-自顶向下方法[%]                          :@Classroom:
 :LOGBOOK:
 CLOCK: [2016-03-11 Fri 20:46]--[2016-03-11 Fri 21:11] =>  0:25
-CLOCK: [2016-03-10 Thu 15.15]--[2016-03-10 Thu 4:00] =>  4:00
+CLOCK: [2016-03-10 Thu 15:15]--[2016-03-10 Thu 16:00] =>  0:45
 CLOCK: [2016-03-09 Wed 10:00]--[2016-03-09 Wed 11:30] =>  1:30
 CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 :END:
 - [X] Browse website
 - [  ] 计算机网络和因特网
   - [X] Use Traceroute
+  - [ ] Review questions
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:18]
 ** TODO [#B] 纽约摄影教程[50%]                                 :@Classroom:
@@ -70,8 +74,6 @@ DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
-** TODO [#A] 毛概 PPT                                           :@Computer:
-DEADLINE: <2016-03-14 Mon> SCHEDULED: <2016-03-08 Tue>
 ** TODO [#A] 数字音视频 PPT                                      :@Computer:
 DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
 * Art
@@ -85,11 +87,12 @@ CLOCK: [2016-03-09 Wed 18:30]--[2016-03-09 Wed 20:00] =>  1:30
 :END:
 - State "TODO"       from              [2016-03-07 Mon 21:58]
 how to : read book
-r** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-13 Sun .+1d>
+** TODO [#A] Play Guitar                                             :@309:
+SCHEDULED: <2016-03-14 Mon .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-12 Sat 17:52]
+:LAST_REPEAT: [2016-03-13 Sun 20:33]
 :END:
+- State "DONE"       from "TODO"       [2016-03-13 Sun 20:33]
 - State "DONE"       from "TODO"       [2016-03-12 Sat 17:52]
 - State "DONE"       from "TODO"       [2016-03-11 Fri 20:29]
 - State "DONE"       from "TODO"       [2016-03-10 Thu 18:27]

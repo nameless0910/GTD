@@ -176,9 +176,58 @@ conventional 传统的
 shift 移动
 resource 资源
 proceed 开始
-simulate模仿的
-expect期待
-thus因此
-principle原理
-formulated表述
-desire欲望
+simulate 模仿的
+expect 期待
+thus 因此
+principle 原理
+formulated 表述
+desire 欲望
+property 性能;属性
+vintage 年份
+sustain 支撑
+rate 比率
+trick 诡计
+pipelining 流水线
+partitioned 划分;分割
+fairly 公平的
+superscalar 超标量体系结构
+generated 生成的
+degree 程度
+cause 引起
+precision 精度
+attempt 企图
+extract 提取
+supplement 补充
+presentation 展示
+formulate 规划
+delve 钻研
+declaration 声明
+prototype 模范
+indicated 指出
+representation 代表
+architecture 架构
+behave 运转
+elaborate 精心制作
+sequential 顺序
+range 范围
+prominent 卓越的
+subsequent 后来的
+sections 节段
+summary 总结
+cooperate 协力
+interpret 解释
+arrange 安排
+serve 供应
+intermediary 媒介
+bibliographic 书目
+accounts 账号
+comprehensive 综合
+flavors 味道
+structure 结构
+exploration 探究
+comprising 构成
+subsystem子系统
+approximation近似
+gain增加
+examine检查
+conclude决定
