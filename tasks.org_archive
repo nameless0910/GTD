@@ -1,3 +1,15 @@
+#    -*- mode: org -*-
+#+BEGIN: clocktable :maxlevel 2 :scope file
+#+CAPTION: Clock summary at [2016-03-14 Mon 19:48]
+| Headline                                |   Time |
+|-----------------------------------------+--------|
+| *Total time*                            | *1:32* |
+|-----------------------------------------+--------|
+| DONE [#A] Read org-mode chinese...      |   0:16 |
+| DONE [#A] Translate words<2016-03-11... |   0:40 |
+| DONE [#A] Translate Words<2016-03-14... |   0:18 |
+| DONE [#A] Read English...               |   0:18 |
+#+END:
 * DONE [#A] Read org-mode chinese manual <2016-03-08 Tue>   :@Computer:
 CLOSED: [2016-03-08 Tue 18:47]
 :PROPERTIES:
@@ -45,13 +57,14 @@ CLOCK: [2016-03-11 Fri 13:30]--[2016-03-11 Fri 13:39] =>  0:09
 CLOCK: [2016-03-11 Fri 12:54]--[2016-03-11 Fri 13:25] =>  0:31
 :END:
 
-* TODO [#A] Search "Machine Learning Skills" and have a note <2016-03-10 Thu>
+* DONE [#A] Search "Machine Learning Skills" and have a note <2016-03-10 Thu>
+CLOSED: [2016-03-14 Mon 18:18]
 :PROPERTIES:
 :ARCHIVE_TIME: 2016-03-11 Fri 20:33
 :ARCHIVE_FILE: ~/GTD/tasks.org
 :ARCHIVE_OLPATH: Things
 :ARCHIVE_CATEGORY: Things
-:ARCHIVE_TODO: TODO
+:ARCHIVE_TODO: DONE
 :END:
 
 * DONE [#A] Help Jianglei installing ARCH Linux<2016-03-11 Fri>
@@ -82,4 +95,32 @@ CLOSED: [2016-03-13 Sun 20:33]
 :ARCHIVE_OLPATH: Things
 :ARCHIVE_CATEGORY: Things
 :ARCHIVE_TODO: DONE
+:END:
+
+* DONE [#A] Translate Words<2016-03-14 Mon>                       :@Computer:
+CLOSED: [2016-03-14 Mon 18:38]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-14 Mon 18:38
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Daily
+:ARCHIVE_CATEGORY: tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-03-14 Mon 18:20]--[2016-03-14 Mon 18:38] =>  0:18
+:END:
+
+
+
+* DONE [#A] Read English material<2016-03-14 Mon>                 :@Computer:
+CLOSED: [2016-03-14 Mon 19:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-14 Mon 19:47
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Daily
+:ARCHIVE_CATEGORY: tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-03-14 Mon 19:29]--[2016-03-14 Mon 19:47] =>  0:18
 :END:

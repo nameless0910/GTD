@@ -226,8 +226,101 @@ flavors 味道
 structure 结构
 exploration 探究
 comprising 构成
-subsystem子系统
-approximation近似
-gain增加
-examine检查
-conclude决定
+subsystem 子系统
+approximation 近似
+gain 增加
+examine 检查
+conclude 决定
+signal 信号
+revolution 革命
+decimal 小数
+familiar 常见
+transmitted 传输
+absence 缺乏
+punched 穿孔的
+voltage 电压
+wire 电线
+magnetic 磁性
+domain 领域
+oriented 面对对象;导向
+clockwise 顺时针
+counterclockwise 逆时针
+manufacturers 制造商
+silicon 硅
+symbol 符号
+complement 补码
+scientific 科学的;系统的
+yield 产量
+properties 性能;性质
+satisfies 满足
+associative 组合
+commutative 可交换
+stem 阻止;起源
+comparatively 比较的;相当的
+critical 关键的
+portable 便捷的
+vulnerability 缺陷
+subtlety 细微
+whereas 然而
+inconvenience 不便
+triggered 触发
+legion 大量的
+unauthorized 非法的
+obligation 义务
+undesirable 不良分子
+derive 派生
+daunting 使人畏缩的
+derivation 推导
+intuition 直觉
+assured 自信的
+grasp 领会
+format 格式;版本
+assembly 装配;集合
+feasible 可行的
+allocator 分配算符
+era 纪元;年代;重大事件
+effort 努力
+declared 声明;公开宣布
+auspices 赞助
+institute 学院
+reference 引用
+adopting 采取
+substantially 实际上
+sponsored 赞助;发起
+according 依照
+monolithic 单片机
+subsequent 后来的
+mechanism 进程;机制
+maintian 维护
+central 中心
+structure 构造
+aspect 方面
+indicate 表明;指出
+verbose 啰嗦
+tedious 乏味
+straightforward 直截了当
+padding 填充
+readily 容易的
+quotient 商
+remainder 余数
+remaining 剩余
+appropriate 适当的
+nominal 名义上
+ample 丰富的
+consequently 因此
+highend 高档次
+quantities 数量
+prefixed 前缀
+qualifier 限定词
+strive 努力
+insensitive 感觉迟钝
+bound 范围
+assuming 假设
+migrating 迁徙
+slim
+
+
+
+
+
+

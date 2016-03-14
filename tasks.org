@@ -6,43 +6,84 @@
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
-#+AUTHOR: nameless
+#+BEGIN: clocktable :maxlevel 2 :scope file
+#+CAPTION: Clock summary at [2016-03-14 Mon 21:33]
+| Headline                                 |    Time |      |
+|------------------------------------------+---------+------|
+| *Total time*                             | *14:18* |      |
+|------------------------------------------+---------+------|
+| BOOK                                     |    6:31 |      |
+| \_  TODO [#A]计算机网络-自顶向下方法[0%] |         | 3:05 |
+| \_  TODO [#C] 国际象棋                   |         | 0:26 |
+| \_  TODO [#A] 数据库[0%]                 |         | 3:00 |
+| Art                                      |    1:30 |      |
+| \_  TODO [#B] Music Theory               |         | 1:30 |
+| Daily                                    |    6:17 |      |
+| \_  TODO [#A] CSAPP[8%]                  |         | 6:17 |
+#+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
 :CATEGORY: BOOK
 :END:
-** TODO [#A] CSAPP[100%]                                       :@Dormitoryc: 
-:LOGBOOK:
-CLOCK: [2016-03-13 Sun 16:09]--[2016-03-13 Sun 16:34] =>  0:25
-CLOCK: [2016-03-13 Sun 15:31]--[2016-03-13 Sun 15:56] =>  0:25
-CLOCK: [2016-03-12 Sat 22:32]--[2016-03-12 Sat 22:34] =>  0:02
-CLOCK: [2016-03-12 Sat 22:07]--[2016-03-12 Sat 22:32] =>  0:25
-CLOCK: [2016-03-12 Sat 21:34]--[2016-03-12 Sat 22:00] =>  0:26
-CLOCK: [2016-03-09 Wed 21:35]--[2016-03-09 Wed 22:00] =>  0:25
-CLOCK: [2016-03-09 Wed 20:57]--[2016-03-09 Wed 21:22] =>  0:25
-CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
-CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
-:END:
-1. [X] A Tour of Computer Systems
-2. [ ] Representing and Manipulating Information 
-SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
-- State "TODO"       from              [2016-03-07 Mon 20:30]
-** TODO [#A]计算机网络-自顶向下方法[%]                          :@Classroom:
+** TODO [#A]计算机网络-自顶向下方法[0%]                         :@Classroom:
 :LOGBOOK:
 CLOCK: [2016-03-11 Fri 20:46]--[2016-03-11 Fri 21:11] =>  0:25
 CLOCK: [2016-03-10 Thu 15:15]--[2016-03-10 Thu 16:00] =>  0:45
 CLOCK: [2016-03-09 Wed 10:00]--[2016-03-09 Wed 11:30] =>  1:30
 CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 :END:
-- [X] Browse website
-- [  ] 计算机网络和因特网
-  - [X] Use Traceroute
-  - [ ] Review questions
+1. [-] 计算机网络和因特网 [50%]
+   - [X] Use Traceroute
+   - [ ] Review questions[0%]
+2. [ ]应用层
+3. [ ] 运输层
+4. [ ] 网络层
+5. [ ] 链路层和局域网
+6. [ ] 无线网络和移动网络
+7. [ ] 多媒体网络
+8. [ ] 计算机网络中的安全
+9. [ ] 网络管理
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:18]
-** TODO [#B] 纽约摄影教程[50%]                                 :@Classroom:
+** TODO [#B] 纽约摄影教程[2%]                                   :@Classroom:
 1. [X] Eye of the Photographer
 2. [ ] Camera and Lens
+3. [ ] How to Ise Your Camera
+4. [ ] Film
+5. [ ] Exposure
+6. [ ] Developing Black-and-White Film
+7. [ ] Filters
+8. [ ] Developing Your Eye
+9. [ ] Natural Light
+10. [ ] Available Light
+11. [ ] Artificial Light
+12. [ ] Strobe
+13. [ ] The Perfect Print
+14. [ ] The Darkroom
+15. [ ] Basic Portrait Lighting
+16. [ ] Studio Portraiture
+17. [ ] Location Portraiture
+18. [ ] Children Photography and Pets Photography
+19. [ ] Wedding Photography
+20. [ ] Fashion
+21. [ ] Glamour & Nude Photography
+22. [ ] Color Film Processing
+23. [ ] View Camera
+24. [ ] Advertising and Still Life
+25. [ ] Architecture
+26. [ ] Copying, Macro Photography and Photomicroscopy
+27. [ ] Color Printing
+28. [ ] Finishing Touches
+29. [ ] Photojournalism1
+30. [ ] Photojournalism2
+31. [ ] Guide to Freelance
+32. [ ] How to Open Your Own Studio
+33. [ ] Digital Photography
+34. [ ] How does A Digital Camera Work
+35. [ ] How to Choose A Digital Camera
+36. [ ] How to Use A Digital Camera
+37. [ ] Scanners
+38. [ ] Digital Darkroom
 DEADLINE: <2016-06-07 Tue> SCHEDULED: <2016-03-07 Mon>
 pp- State "TODO"       from              [2016-03-07 Mon 21:31]
 ** TODO [#C] 国际象棋                                          :@Dormitory:
@@ -54,28 +95,42 @@ CLOCK: [2016-03-08 Tue 20:39]--[2016-03-08 Tue 21:05] =>  0:26
 ** TODO [#C]水彩画                                             :@Dormitory:
 SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:34]
-** TODO [#A] 数据库                                            :@Dormitory:
-- [ ] Browse website
+** TODO [#A] 数据库[0%]                                              :@Book:
+- [ ] Browse Website
 1. [ ] 数据系统世界
    - [ ] READ PAPER
 2. [ ] 关系数据模型
    - [ ] READ PAPER
    - [ ] DO 2.4.14 and 2.5.5
+3. [ ] 关系数据库设计理论
+4. [ ] 高级数据库模型
+5. [ ]代数和逻辑查询语言 
+6. [ ] 数据库语言 SQL
+7. [ ] 约束与触发器
+8. [ ] 视图与索引
+9. [ ] 服务器环境下的 SQL
+10. [ ] 关系数据库的新课题
+11. [ ] 半结构化数据模型
+12. [ ] XML 程序设计语言
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 :LOGBOOK:
 CLOCK: [2016-03-10 Thu 10:00]--[2016-03-10 Thu 11:30] =>  1:30
 CLOCK: [2016-03-09 Wed 13:30]--[2016-03-09 Wed 15:00] =>  1:30
 :END:
 - State "TODO"       from              [2016-03-07 Mon 21:35]
-** TODO [#A] READ PRML                                         :@Dormitory:
-DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
-
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
 ** TODO [#A] 数字音视频 PPT                                      :@Computer:
 DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
+** TODO [#A] 操作系统                                           :@Computer:
+DEADLINE: <2016-03-21 Mon>
+1. [ ] When and how two programs concurrency to get 37
+2. [ ] 4-9 p94 
+3. [ ] 80/81 4.9.1 Two Example
+   1. [ ] i==-1;child!=0;
+   2. [ ] fork!=0;把 printf c 放到 b 下
 * Art
 :PROPERTIES:
 :CATEGORY: ART
@@ -87,17 +142,6 @@ CLOCK: [2016-03-09 Wed 18:30]--[2016-03-09 Wed 20:00] =>  1:30
 :END:
 - State "TODO"       from              [2016-03-07 Mon 21:58]
 how to : read book
-** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-14 Mon .+1d>
-:PROPERTIES:
-:LAST_REPEAT: [2016-03-13 Sun 20:33]
-:END:
-- State "DONE"       from "TODO"       [2016-03-13 Sun 20:33]
-- State "DONE"       from "TODO"       [2016-03-12 Sat 17:52]
-- State "DONE"       from "TODO"       [2016-03-11 Fri 20:29]
-- State "DONE"       from "TODO"       [2016-03-10 Thu 18:27]
-- State "DONE"       from "TODO"       [2016-03-09 Wed 21:25]
-- State "DONE"       from "TODO"       [2016-03-08 Tue 12:19]
 * Study 
 :PROPERTIES:
 :CATEGORY: Study
@@ -106,4 +150,66 @@ SCHEDULED: <2016-03-14 Mon .+1d>
 :PROPERTIES:
 :CATEGORY: Things
 :END:
-** TODO [#A] My website<2016-03-10 Thu>
+** TODO [#A] My website<2016-03-10 Thu>                         :@Computer:
+* Daily                                                              :@Daily:
+** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
+:LOGBOOK:
+CLOCK: [2016-03-14 Mon 13:30]--[2016-03-14 Mon 15:30] =>  2:00
+CLOCK: [2016-03-14 Mon 11:06]--[2016-03-14 Mon 11:31] =>  0:25
+CLOCK: [2016-03-14 Mon 10:33]--[2016-03-14 Mon 10:58] =>  0:25
+CLOCK: [2016-03-13 Sun 16:09]--[2016-03-13 Sun 16:34] =>  0:25
+CLOCK: [2016-03-13 Sun 15:31]--[2016-03-13 Sun 15:56] =>  0:25
+CLOCK: [2016-03-12 Sat 22:32]--[2016-03-12 Sat 22:34] =>  0:02
+CLOCK: [2016-03-12 Sat 22:07]--[2016-03-12 Sat 22:32] =>  0:25
+CLOCK: [2016-03-12 Sat 21:34]--[2016-03-12 Sat 22:00] =>  0:26
+CLOCK: [2016-03-09 Wed 21:35]--[2016-03-09 Wed 22:00] =>  0:25
+CLOCK: [2016-03-09 Wed 20:57]--[2016-03-09 Wed 21:22] =>  0:25
+CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
+CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
+:END:
+1. [X] A Tour of Computer Systems
+2. [ ] Representing and Manipulating Information
+3. [ ] Machine-Level Representation of Programs
+4. [ ] Processor Architecture
+5. [ ] Optimizing Program Performance
+6. [ ] The Memory Hierarchy
+7. [ ] Linking
+8. [ ] Exceptional Control Flow
+9. [ ] Virtual Memory
+10. [ ] System-Level I/O
+11. [ ] Network Programming
+12. [ ] Concurrent Programming
+SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
+** TODO [#A] READ PRML[0%]                                :@Book:@Dormitory:
+1. [ ] Introduction
+2. [ ] Probability Distributions
+3. [ ] Linear Models for Regression
+4. [ ] Linear Models for Classification
+5. [ ] Neural Networks
+6. [ ] Kernel Methods
+7. [ ] Sparse Kernel Machines
+8. [ ] Graphical Models
+9. [ ] Mixture Models and EM
+10. [ ] Approximate Inference
+11. [ ] Sampling Methods
+12. [ ] Continuous Latent Variables
+13. [ ] Sequential Data
+14. [ ] Combining Models
+DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
+** TODO [#A] Play Guitar                                             :@309:
+SCHEDULED: <2016-03-15 Tue .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2016-03-14 Mon 12:44]
+:END:
+- State "DONE"       from "TODO"       [2016-03-14 Mon 12:44]
+- State "DONE"       from "TODO"       [2016-03-13 Sun 20:33]
+- State "DONE"       from "TODO"       [2016-03-12 Sat 17:52]
+- State "DONE"       from "TODO"       [2016-03-11 Fri 20:29]
+- State "DONE"       from "TODO"       [2016-03-10 Thu 18:27]
+- State "DONE"       from "TODO"       [2016-03-09 Wed 21:25]
+- State "DONE"       from "TODO"       [2016-03-08 Tue 12:19]
+** TODO [#A] Learn ML Tools                                     :@Dormitory:
+SCHEDULED: <2016-04-13 Wed>
+*** APPT Learn Book R and Machine Learning                          :@Book:
+*** TODO Learn Kaggle                                           :@Computer:
+
