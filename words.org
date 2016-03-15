@@ -317,10 +317,7 @@ insensitive 感觉迟钝
 bound 范围
 assuming 假设
 migrating 迁徙
-slim
-
-
-
-
-
-
+asterisks 星号
+coincidental 巧合的
+observe 观察
+expand 展开

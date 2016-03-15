@@ -1,4 +1,4 @@
-#+STARTUP: showall
+#+STARTUP: content
 #+STARTUP: hidestars
 #+TAGS: { @Book(k)  @Dormitory(d) @Classroom(c) @Way(w) @Launchtime(l) @Call(p) @309(g) @Bed(b) @Computer(o) @PROJECT(t)}
 #+STARTUP: logdone
@@ -7,19 +7,21 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-03-14 Mon 21:33]
+#+CAPTION: Clock summary at [2016-03-15 Tue 19:34]
 | Headline                                 |    Time |      |
 |------------------------------------------+---------+------|
-| *Total time*                             | *14:18* |      |
+| *Total time*                             | *17:39* |      |
 |------------------------------------------+---------+------|
-| BOOK                                     |    6:31 |      |
+| BOOK                                     |    9:01 |      |
 | \_  TODO [#A]计算机网络-自顶向下方法[0%] |         | 3:05 |
+| \_  TODO [#B] 纽约摄影教程[5%]           |         | 2:00 |
 | \_  TODO [#C] 国际象棋                   |         | 0:26 |
 | \_  TODO [#A] 数据库[0%]                 |         | 3:00 |
+| \_  TODO [#B] Learn Emacs Lisp[0%]       |         | 0:30 |
 | Art                                      |    1:30 |      |
 | \_  TODO [#B] Music Theory               |         | 1:30 |
-| Daily                                    |    6:17 |      |
-| \_  TODO [#A] CSAPP[8%]                  |         | 6:17 |
+| Daily                                    |    7:08 |      |
+| \_  TODO [#A] CSAPP[8%]                  |         | 7:08 |
 #+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
@@ -45,9 +47,12 @@ CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 9. [ ] 网络管理
 DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:18]
-** TODO [#B] 纽约摄影教程[2%]                                   :@Classroom:
+** TODO [#B] 纽约摄影教程[5%]                                   :@Classroom:
+:LOGBOOK:
+CLOCK: [2016-03-15 Tue 15:20]--[2016-03-15 Tue 17:20] =>  2:00
+:END:
 1. [X] Eye of the Photographer
-2. [ ] Camera and Lens
+2. [X] Camera and Lens
 3. [ ] How to Ise Your Camera
 4. [ ] Film
 5. [ ] Exposure
@@ -85,7 +90,7 @@ DEADLINE: <2016-05-07 Sat> SCHEDULED: <2016-03-07 Mon>
 37. [ ] Scanners
 38. [ ] Digital Darkroom
 DEADLINE: <2016-06-07 Tue> SCHEDULED: <2016-03-07 Mon>
-pp- State "TODO"       from              [2016-03-07 Mon 21:31]
+- State "TODO"       from              [2016-03-07 Mon 21:31]
 ** TODO [#C] 国际象棋                                          :@Dormitory:
 SCHEDULED: <2016-03-07 Mon>
 :LOGBOOK:
@@ -95,7 +100,7 @@ CLOCK: [2016-03-08 Tue 20:39]--[2016-03-08 Tue 21:05] =>  0:26
 ** TODO [#C]水彩画                                             :@Dormitory:
 SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:34]
-** TODO [#A] 数据库[0%]                                              :@Book:
+** TODO [#A] 数据库[0%]                                        :@Dormitory:
 - [ ] Browse Website
 1. [ ] 数据系统世界
    - [ ] READ PAPER
@@ -118,6 +123,45 @@ CLOCK: [2016-03-10 Thu 10:00]--[2016-03-10 Thu 11:30] =>  1:30
 CLOCK: [2016-03-09 Wed 13:30]--[2016-03-09 Wed 15:00] =>  1:30
 :END:
 - State "TODO"       from              [2016-03-07 Mon 21:35]
+** TODO [#B] Learn Emacs Lisp[0%]                                :@Computer:
+SCHEDULED: <2016-03-15 Tue>
+:LOGBOOK:
+CLOCK: [2016-03-15 Tue 10:30]--[2016-03-15 Tue 11:00] =>  0:30
+:END:
+1. [ ]  列表处理
+2. [ ] 求值实践
+3. [ ] 如何编写函数定义
+4. [ ] 与缓冲区有关的函数
+5. [ ] 更复杂的函数
+6. [ ] 变窄和增宽
+7. [ ] 基本函数：car,cdr,cons
+8. [ ] 剪切和储存文本
+9. [ ] 列表是如何实现的
+10. [ ] 找回文本
+11. [ ] 循环和递归
+12. [ ] 正则表达式查询
+13. [ ] 计数：重复和正则表达式
+14. [ ] 统计函数定义中的单词数
+15. [ ] 准备柱形图
+16. [ ] 配置你的.emacs 文件
+17. [ ] 调试
+18. [ ] 结论
+** TODO [#A] READ PRML[0%]                               :@Book:@Dormitory:
+1. [ ] Introduction
+2. [ ] Probability Distributions
+3. [ ] Linear Models for Regression
+4. [ ] Linear Models for Classification
+5. [ ] Neural Networks
+6. [ ] Kernel Methods
+7. [ ] Sparse Kernel Machines
+8. [ ] Graphical Models
+9. [ ] Mixture Models and EM
+10. [ ] Approximate Inference
+11. [ ] Sampling Methods
+12. [ ] Continuous Latent Variables
+13. [ ] Sequential Data
+14. [ ] Combining Models
+DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
@@ -151,9 +195,13 @@ how to : read book
 :CATEGORY: Things
 :END:
 ** TODO [#A] My website<2016-03-10 Thu>                         :@Computer:
+** TODO [#A] Read Three Papers About ML<2016-03-15 Tue>          :@Computer:
+** TODO [#A] Use Emacs to develop C/C++<2016-03-15 Tue>          :@Computer:
 * Daily                                                              :@Daily:
 ** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
 :LOGBOOK:
+CLOCK: [2016-03-15 Tue 18:22]--[2016-03-15 Tue 18:48] =>  0:26
+CLOCK: [2016-03-15 Tue 12:52]--[2016-03-15 Tue 13:17] =>  0:25
 CLOCK: [2016-03-14 Mon 13:30]--[2016-03-14 Mon 15:30] =>  2:00
 CLOCK: [2016-03-14 Mon 11:06]--[2016-03-14 Mon 11:31] =>  0:25
 CLOCK: [2016-03-14 Mon 10:33]--[2016-03-14 Mon 10:58] =>  0:25
@@ -180,27 +228,12 @@ CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 11. [ ] Network Programming
 12. [ ] Concurrent Programming
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
-** TODO [#A] READ PRML[0%]                                :@Book:@Dormitory:
-1. [ ] Introduction
-2. [ ] Probability Distributions
-3. [ ] Linear Models for Regression
-4. [ ] Linear Models for Classification
-5. [ ] Neural Networks
-6. [ ] Kernel Methods
-7. [ ] Sparse Kernel Machines
-8. [ ] Graphical Models
-9. [ ] Mixture Models and EM
-10. [ ] Approximate Inference
-11. [ ] Sampling Methods
-12. [ ] Continuous Latent Variables
-13. [ ] Sequential Data
-14. [ ] Combining Models
-DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
 ** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-15 Tue .+1d>
+SCHEDULED: <2016-03-16 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-14 Mon 12:44]
+:LAST_REPEAT: [2016-03-15 Tue 14:23]
 :END:
+- State "DONE"       from "TODO"       [2016-03-15 Tue 14:23]
 - State "DONE"       from "TODO"       [2016-03-14 Mon 12:44]
 - State "DONE"       from "TODO"       [2016-03-13 Sun 20:33]
 - State "DONE"       from "TODO"       [2016-03-12 Sat 17:52]
@@ -208,8 +241,16 @@ SCHEDULED: <2016-03-15 Tue .+1d>
 - State "DONE"       from "TODO"       [2016-03-10 Thu 18:27]
 - State "DONE"       from "TODO"       [2016-03-09 Wed 21:25]
 - State "DONE"       from "TODO"       [2016-03-08 Tue 12:19]
+*** TODO Metal Rhythm Guitar 1[%]
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
+5. [ ] 
+6. [ ] 
+*** TODO Metal Rhythm Guitar 2[%]
 ** TODO [#A] Learn ML Tools                                     :@Dormitory:
 SCHEDULED: <2016-04-13 Wed>
-*** APPT Learn Book R and Machine Learning                          :@Book:
-*** TODO Learn Kaggle                                           :@Computer:
-
+*** TODO [#A] Read Scikit-learn Manual                          :@Computer:
+*** APPT [#B] Learn Book R and Machine Learning                     :@Book:
+*** TODO [#B] Learn Kaggle                                      :@Computer:
