@@ -7,21 +7,22 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-03-15 Tue 19:34]
+#+CAPTION: Clock summary at [2016-03-16 Wed 22:22]
 | Headline                                 |    Time |      |
 |------------------------------------------+---------+------|
-| *Total time*                             | *17:39* |      |
+| *Total time*                             | *21:34* |      |
 |------------------------------------------+---------+------|
-| BOOK                                     |    9:01 |      |
-| \_  TODO [#A]计算机网络-自顶向下方法[0%] |         | 3:05 |
+| BOOK                                     |   10:41 |      |
+| \_  TODO [#A]计算机网络-自顶向下方法[0%] |         | 4:45 |
 | \_  TODO [#B] 纽约摄影教程[5%]           |         | 2:00 |
 | \_  TODO [#C] 国际象棋                   |         | 0:26 |
 | \_  TODO [#A] 数据库[0%]                 |         | 3:00 |
 | \_  TODO [#B] Learn Emacs Lisp[0%]       |         | 0:30 |
 | Art                                      |    1:30 |      |
 | \_  TODO [#B] Music Theory               |         | 1:30 |
-| Daily                                    |    7:08 |      |
-| \_  TODO [#A] CSAPP[8%]                  |         | 7:08 |
+| Daily                                    |    9:23 |      |
+| \_  TODO [#A] CSAPP[8%]                  |         | 8:30 |
+| \_  TODO [#A] READ PRML[0%]              |         | 0:53 |
 #+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
@@ -29,6 +30,7 @@
 :END:
 ** TODO [#A]计算机网络-自顶向下方法[0%]                         :@Classroom:
 :LOGBOOK:
+CLOCK: [2016-03-16 Wed 10:00]--[2016-03-16 Wed 11:40] =>  1:40
 CLOCK: [2016-03-11 Fri 20:46]--[2016-03-11 Fri 21:11] =>  0:25
 CLOCK: [2016-03-10 Thu 15:15]--[2016-03-10 Thu 16:00] =>  0:45
 CLOCK: [2016-03-09 Wed 10:00]--[2016-03-09 Wed 11:30] =>  1:30
@@ -37,7 +39,7 @@ CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 1. [-] 计算机网络和因特网 [50%]
    - [X] Use Traceroute
    - [ ] Review questions[0%]
-2. [ ]应用层
+2. [-] 应用层
 3. [ ] 运输层
 4. [ ] 网络层
 5. [ ] 链路层和局域网
@@ -146,35 +148,12 @@ CLOCK: [2016-03-15 Tue 10:30]--[2016-03-15 Tue 11:00] =>  0:30
 16. [ ] 配置你的.emacs 文件
 17. [ ] 调试
 18. [ ] 结论
-** TODO [#A] READ PRML[0%]                               :@Book:@Dormitory:
-1. [ ] Introduction
-2. [ ] Probability Distributions
-3. [ ] Linear Models for Regression
-4. [ ] Linear Models for Classification
-5. [ ] Neural Networks
-6. [ ] Kernel Methods
-7. [ ] Sparse Kernel Machines
-8. [ ] Graphical Models
-9. [ ] Mixture Models and EM
-10. [ ] Approximate Inference
-11. [ ] Sampling Methods
-12. [ ] Continuous Latent Variables
-13. [ ] Sequential Data
-14. [ ] Combining Models
-DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
 ** TODO [#A] 数字音视频 PPT                                      :@Computer:
 DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
-** TODO [#A] 操作系统                                           :@Computer:
-DEADLINE: <2016-03-21 Mon>
-1. [ ] When and how two programs concurrency to get 37
-2. [ ] 4-9 p94 
-3. [ ] 80/81 4.9.1 Two Example
-   1. [ ] i==-1;child!=0;
-   2. [ ] fork!=0;把 printf c 放到 b 下
 * Art
 :PROPERTIES:
 :CATEGORY: ART
@@ -195,11 +174,13 @@ how to : read book
 :CATEGORY: Things
 :END:
 ** TODO [#A] My website<2016-03-10 Thu>                         :@Computer:
-** TODO [#A] Read Three Papers About ML<2016-03-15 Tue>          :@Computer:
 ** TODO [#A] Use Emacs to develop C/C++<2016-03-15 Tue>          :@Computer:
 * Daily                                                              :@Daily:
 ** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
 :LOGBOOK:
+CLOCK: [2016-03-16 Wed 14:12]--[2016-03-16 Wed 14:27] =>  0:15
+CLOCK: [2016-03-16 Wed 13:14]--[2016-03-16 Wed 14:01] =>  0:47
+CLOCK: [2016-03-15 Tue 20:34]--[2016-03-15 Tue 20:54] =>  0:20
 CLOCK: [2016-03-15 Tue 18:22]--[2016-03-15 Tue 18:48] =>  0:26
 CLOCK: [2016-03-15 Tue 12:52]--[2016-03-15 Tue 13:17] =>  0:25
 CLOCK: [2016-03-14 Mon 13:30]--[2016-03-14 Mon 15:30] =>  2:00
@@ -229,10 +210,11 @@ CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 12. [ ] Concurrent Programming
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 ** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-16 Wed .+1d>
+SCHEDULED: <2016-03-17 Thu .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-15 Tue 14:23]
+:LAST_REPEAT: [2016-03-16 Wed 09:45]
 :END:
+- State "DONE"       from "TODO"       [2016-03-16 Wed 09:45]
 - State "DONE"       from "TODO"       [2016-03-15 Tue 14:23]
 - State "DONE"       from "TODO"       [2016-03-14 Mon 12:44]
 - State "DONE"       from "TODO"       [2016-03-13 Sun 20:33]
@@ -241,16 +223,37 @@ SCHEDULED: <2016-03-16 Wed .+1d>
 - State "DONE"       from "TODO"       [2016-03-10 Thu 18:27]
 - State "DONE"       from "TODO"       [2016-03-09 Wed 21:25]
 - State "DONE"       from "TODO"       [2016-03-08 Tue 12:19]
-*** TODO Metal Rhythm Guitar 1[%]
+*** TODO [#A] Master of puppets 
+*** TODO [#B] Metal Rhythm Guitar 1[%]
 1. [ ] 
 2. [ ] 
 3. [ ] 
 4. [ ] 
 5. [ ] 
 6. [ ] 
-*** TODO Metal Rhythm Guitar 2[%]
+*** TODO [#B] Metal Rhythm Guitar 2[%]
 ** TODO [#A] Learn ML Tools                                     :@Dormitory:
 SCHEDULED: <2016-04-13 Wed>
 *** TODO [#A] Read Scikit-learn Manual                          :@Computer:
 *** APPT [#B] Learn Book R and Machine Learning                     :@Book:
 *** TODO [#B] Learn Kaggle                                      :@Computer:
+** TODO [#A] READ PRML[0%]                               :@Book:@Dormitory:
+:LOGBOOK:
+CLOCK: [2016-03-16 Wed 22:04]--[2016-03-16 Wed 22:22] =>  0:18
+CLOCK: [2016-03-16 Wed 21:20]--[2016-03-16 Wed 21:55] =>  0:35
+:END:
+1. [ ] Introduction
+2. [ ] Probability Distributions
+3. [ ] Linear Models for Regression
+4. [ ] Linear Models for Classification
+5. [ ] Neural Networks
+6. [ ] Kernel Methods
+7. [ ] Sparse Kernel Machines
+8. [ ] Graphical Models
+9. [ ] Mixture Models and EM
+10. [ ] Approximate Inference
+11. [ ] Sampling Methods
+12. [ ] Continuous Latent Variables
+13. [ ] Sequential Data
+14. [ ] Combining Models
+DEADLINE: <2016-09-09 Fri> SCHEDULED: <2016-03-09 Wed>
