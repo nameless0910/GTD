@@ -371,4 +371,29 @@ in turn 轮流
 springboard 跳板;出发点
 mechanics 力学
 regularities 规律
-spectra光谱
+spectra 光谱
+armed 武装
+reverse 相反的
+odd 奇数
+modification 修改
+regardless 不管
+significant 有效
+complemented 补全
+equipment 设备
+overlap 重复
+phenomenon 现象
+asynchronous 异步
+separate 单独的
+reducing 减少
+latency 潜在因素
+deferring 阻塞
+allocator 分配算符
+coalescing 聚结的
+approach 方法
+descriptor 描述符
+confused 困惑
+treat 看待;探讨
+counterpart 副本
+restricted 限制
+versus 与...相对
+intended打算

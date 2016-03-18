@@ -7,22 +7,23 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-03-16 Wed 22:22]
-| Headline                                 |    Time |      |
-|------------------------------------------+---------+------|
-| *Total time*                             | *21:34* |      |
-|------------------------------------------+---------+------|
-| BOOK                                     |   10:41 |      |
-| \_  TODO [#A]计算机网络-自顶向下方法[0%] |         | 4:45 |
-| \_  TODO [#B] 纽约摄影教程[5%]           |         | 2:00 |
-| \_  TODO [#C] 国际象棋                   |         | 0:26 |
-| \_  TODO [#A] 数据库[0%]                 |         | 3:00 |
-| \_  TODO [#B] Learn Emacs Lisp[0%]       |         | 0:30 |
-| Art                                      |    1:30 |      |
-| \_  TODO [#B] Music Theory               |         | 1:30 |
-| Daily                                    |    9:23 |      |
-| \_  TODO [#A] CSAPP[8%]                  |         | 8:30 |
-| \_  TODO [#A] READ PRML[0%]              |         | 0:53 |
+#+CAPTION: Clock summary at [2016-03-18 Fri 18:35]
+| Headline                                 |      Time |      |
+|------------------------------------------+-----------+------|
+| *Total time*                             | *1d 0:14* |      |
+|------------------------------------------+-----------+------|
+| BOOK                                     |     12:18 |      |
+| \_  TODO [#A]计算机网络-自顶向下方法[0%] |           | 4:45 |
+| \_  TODO [#B] 纽约摄影教程[5%]           |           | 2:00 |
+| \_  TODO [#C] 国际象棋                   |           | 0:26 |
+| \_  TODO [#A] 数据库[0%]                 |           | 4:20 |
+| \_  TODO [#B] Learn Emacs Lisp[0%]       |           | 0:30 |
+| \_  TODO [#A] 现代操作系统               |           | 0:17 |
+| Art                                      |      1:30 |      |
+| \_  TODO [#B] Music Theory               |           | 1:30 |
+| Daily                                    |     10:26 |      |
+| \_  TODO [#A] CSAPP[8%]                  |           | 9:33 |
+| \_  TODO [#A] READ PRML[0%]              |           | 0:53 |
 #+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
@@ -103,6 +104,7 @@ CLOCK: [2016-03-08 Tue 20:39]--[2016-03-08 Tue 21:05] =>  0:26
 SCHEDULED: <2016-03-07 Mon>
 - State "TODO"       from              [2016-03-07 Mon 21:34]
 ** TODO [#A] 数据库[0%]                                         :@Dormitory:
+- [ ] Learn ER 模型
 - [ ] Browse Website
 - [ ] 数据系统世界
   - [ ] READ PAPER
@@ -129,7 +131,8 @@ CLOCK: [2016-03-09 Wed 13:30]--[2016-03-09 Wed 15:00] =>  1:30
 :END:
 - State "TODO"       from              [2016-03-07 Mon 21:35]
 ** TODO [#B] Learn Emacs Lisp[0%]                                :@Computer:
-SCHEDULED: <2016-03-15 Tue>
+SCHEDULED: 
+<2016-03-15 Tue>
 :LOGBOOK:
 CLOCK: [2016-03-15 Tue 10:30]--[2016-03-15 Tue 11:00] =>  0:30
 :END:
@@ -151,17 +154,19 @@ CLOCK: [2016-03-15 Tue 10:30]--[2016-03-15 Tue 11:00] =>  0:30
 16. [ ] 配置你的.emacs 文件
 17. [ ] 调试
 18. [ ] 结论
+** TODO [#A] 现代操作系统                                       :@Computer:
+SCHEDULED: <2016-03-18 Fri> DEADLINE: <2016-04-18 Mon>
+:LOGBOOK:
+CLOCK: [2016-03-18 Fri 18:18]--[2016-03-18 Fri 18:35] =>  0:17
+:END:
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
 ** TODO [#A] 数字音视频 PPT                                      :@Computer:
 DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
-** TODO [#A] 数据库                                             :@Computer:
-DEADLINE: <2016-03-24 Thu> SCHEDULED: <2016-03-17 Thu>
-- [ ] P43 17,18,19,22(1)(2)
-- [ ] Install Oracle
-- [ ] 上机实验 1.2.3 地点:1 教 1 楼
+** TODO [#A] PS                                                 :@Computer:
+DEADLINE: <2016-03-24 Thu> SCHEDULED: <2016-03-18 Fri>
 * Art
 :PROPERTIES:
 :CATEGORY: ART
@@ -183,9 +188,13 @@ how to : read book
 :END:
 ** TODO [#A] My website<2016-03-10 Thu>                         :@Computer:
 ** TODO [#A] Use Emacs to develop C/C++<2016-03-15 Tue>          :@Computer:
+** TODO [#A] Emacs MySql    <2016-03-17 Thu>                     :@Computer:
 * Daily                                                              :@Daily:
 ** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
 :LOGBOOK:
+CLOCK: [2016-03-18 Fri 17:55]--[2016-03-18 Fri 18:09] =>  0:14
+CLOCK: [2016-03-18 Fri 16:10]--[2016-03-18 Fri 16:21] =>  0:11
+CLOCK: [2016-03-18 Fri 14:58]--[2016-03-18 Fri 15:36] =>  0:38
 CLOCK: [2016-03-16 Wed 14:12]--[2016-03-16 Wed 14:27] =>  0:15
 CLOCK: [2016-03-16 Wed 13:14]--[2016-03-16 Wed 14:01] =>  0:47
 CLOCK: [2016-03-15 Tue 20:34]--[2016-03-15 Tue 20:54] =>  0:20
@@ -205,8 +214,8 @@ CLOCK: [2016-03-08 Tue 19:50]--[2016-03-08 Tue 20:19] =>  0:29
 CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 :END:
 1. [X] A Tour of Computer Systems
-2. [ ] Representing and Manipulating Information
-3. [ ] Machine-Level Representation of Programs
+2. [ ] Representing and Manipulating Information:
+3. [] Machine-Level Representation of Programs
 4. [ ] Processor Architecture
 5. [ ] Optimizing Program Performance
 6. [ ] The Memory Hierarchy
@@ -218,10 +227,11 @@ CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 12. [ ] Concurrent Programming
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 ** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-17 Thu .+1d>
+SCHEDULED: <2016-03-19 Sat .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-16 Wed 09:45]
+:LAST_REPEAT: [2016-03-18 Fri 18:16]
 :END:
+- State "DONE"       from "TODO"       [2016-03-18 Fri 18:16]
 - State "DONE"       from "TODO"       [2016-03-16 Wed 09:45]
 - State "DONE"       from "TODO"       [2016-03-15 Tue 14:23]
 - State "DONE"       from "TODO"       [2016-03-14 Mon 12:44]

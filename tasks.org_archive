@@ -156,3 +156,32 @@ CLOCK: [2016-03-16 Wed 14:35]--[2016-03-16 Wed 15:35] =>  1:00
 3. [X]  80/81 4.9.1 Two Example
    1. [X] i==-1;child!=0;
    2. [X] fork!=0;把 printf c 放到 b 下
+
+* DONE [#A] 操作系统                                              :@Computer:
+CLOSED: [2016-03-18 Fri 19:20] DEADLINE: <2016-03-21 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-18 Fri 19:20
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: HOMEWORK
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-03-18 Fri 19:10]--[2016-03-18 Fri 19:19] =>  0:09
+:END:
+- [X] 生产者-消费者问题
+
+* DONE [#A] 数据库                                                :@Computer:
+CLOSED: [2016-03-18 Fri 20:15] DEADLINE: <2016-03-24 Thu> SCHEDULED: <2016-03-17 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-18 Fri 20:15
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: HOMEWORK
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-03-18 Fri 19:27]--[2016-03-18 Fri 20:15] =>  0:48
+:END:
+- [X]  P43 17,18,19,22(1)(2)
+- [X] 上机实验 1.2.3 地点:1 教 1 楼 p
