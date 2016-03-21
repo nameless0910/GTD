@@ -396,4 +396,73 @@ treat 看待;探讨
 counterpart 副本
 restricted 限制
 versus 与...相对
-intended打算
+intended 打算
+slightly 轻微的
+peculiar 奇怪的
+unfortunately 不幸的
+potentially 可能的
+encounter 偶遇
+portability 可移植性
+guaranteed 有保证的
+precedence 优先
+tempting 吸引人
+spot 污点
+inspection 检查
+parenthese 括号
+tune 协调
+advance 预先的
+typically 代表性
+subsequent 后来的
+detection 检测
+presenting 呈现
+infeasible 不可行的
+preserve 维护;保护
+intensity 强度
+discarded 废弃的
+accuracy 精确度
+suffer 损失
+investigate 调查
+vary 变化
+symmetric 对称
+extend 扩大
+guaranteed 保证
+denote 表示
+treating 处理
+notation 符号
+term 术语
+stating 说明
+bijection 双射
+assign 分配
+fraction 部分
+original 原始的
+discriminatory 有辨别力的
+extremely 非常
+discrete 离散的
+desire 渴望
+continuous 连续的
+manufacturers 制造商
+yield 产量
+concentration 浓度
+reactant 反应物
+pressure 压强
+clustering  聚类
+density estimation 密度估计
+reinforcement learning 强化学习
+situation 情况
+privileges 特权
+reward 报酬
+contrast 对比
+trial 试验
+interacting 相互作用
+impact 影响
+backgammon 双陆棋
+challenge 挑战
+attributed 归于
+exploration 探测
+exploitation 开发
+underpin 支撑
+relatively相对的
+sophisticated复杂的
+essential基本的
+
+

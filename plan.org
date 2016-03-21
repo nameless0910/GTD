@@ -1,0 +1,6 @@
+#+STARTUP: hidestars
+#+STARTUP: content
+* CS
+** OS 
+*** NamelessOS with C and assumble
+*** NLispOS with lisp

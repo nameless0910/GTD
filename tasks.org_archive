@@ -109,23 +109,7 @@ CLOSED: [2016-03-14 Mon 18:38]
 :END:
 :LOGBOOK:
 CLOCK: [2016-03-14 Mon 18:20]--[2016-03-14 Mon 18:38] =>  0:18
-:END:
-
-
-
-* DONE [#A] Read English material<2016-03-14 Mon>                 :@Computer:
-CLOSED: [2016-03-14 Mon 19:47]
-:PROPERTIES:
-:ARCHIVE_TIME: 2016-03-14 Mon 19:47
-:ARCHIVE_FILE: ~/GTD/tasks.org
-:ARCHIVE_OLPATH: Daily
-:ARCHIVE_CATEGORY: tasks
-:ARCHIVE_TODO: DONE
-:END:
-:LOGBOOK:
-CLOCK: [2016-03-14 Mon 19:29]--[2016-03-14 Mon 19:47] =>  0:18
-:END:
-
+:
 * DONE [#A] Read Three Papers About ML<2016-03-15 Tue>            :@Computer:
 CLOSED: [2016-03-15 Tue 21:08]
 :PROPERTIES:
@@ -185,3 +169,16 @@ CLOCK: [2016-03-18 Fri 19:27]--[2016-03-18 Fri 20:15] =>  0:48
 :END:
 - [X]  P43 17,18,19,22(1)(2)
 - [X] 上机实验 1.2.3 地点:1 教 1 楼 p
+
+* DONE [#A] 数字音视频 PPT                                        :@Computer:
+CLOSED: [2016-03-21 Mon 10:50] DEADLINE: <2016-03-21 Mon> SCHEDULED: <2016-03-09 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-21 Mon 10:50
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: HOMEWORK
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2016-03-20 Sun 19:37]--[2016-03-20 Sun 20:29] =>  0:52
+:END:
