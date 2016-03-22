@@ -7,10 +7,10 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-03-21 Mon 22:39]
+#+CAPTION: Clock summary at [2016-03-22 Tue 21:33]
 | Headline                                 |      Time |       |
 |------------------------------------------+-----------+-------|
-| *Total time*                             | *1d 2:44* |       |
+| *Total time*                             | *1d 4:20* |       |
 |------------------------------------------+-----------+-------|
 | BOOK                                     |     12:18 |       |
 | \_  TODO [#A]计算机网络-自顶向下方法[0%] |           |  4:45 |
@@ -23,25 +23,26 @@
 | \_  TODO [#A] Read English...            |           |  0:18 |
 | Art                                      |      1:30 |       |
 | \_  TODO [#B] Music Theory               |           |  1:30 |
-| Daily                                    |     12:38 |       |
-| \_  TODO [#A] CSAPP[8%]                  |           | 10:24 |
-| \_  TODO [#A] READ PRML[0%]              |           |  2:14 |
+| Daily                                    |     14:14 |       |
+| \_  TODO [#A] CSAPP[8%]                  |           | 11:10 |
+| \_  TODO [#A] READ PRML[0%]              |           |  3:04 |
 #+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
 :CATEGORY: BOOK
 :END:
-** TODO [#A]计算机网络-自顶向下方法[0%]                         :@Classroom:
+** TODO [#A]计算机网络-自顶向下方法[11%]                        :@Classroom:
 :LOGBOOK:
+CLOCK: [2016-03-22 Tue 21:34]
 CLOCK: [2016-03-16 Wed 10:00]--[2016-03-16 Wed 11:40] =>  1:40
 CLOCK: [2016-03-11 Fri 20:46]--[2016-03-11 Fri 21:11] =>  0:25
 CLOCK: [2016-03-10 Thu 15:15]--[2016-03-10 Thu 16:00] =>  0:45
 CLOCK: [2016-03-09 Wed 10:00]--[2016-03-09 Wed 11:30] =>  1:30
 CLOCK: [2016-03-08 Tue 22:17]--[2016-03-08 Tue 22:42] =>  0:25
 :END:
-1. [-] 计算机网络和因特网 [50%]
+1. [X] 计算机网络和因特网 [100%]
    - [X] Use Traceroute
-   - [ ] Review questions[0%]
+   - [X] Review questions[0%]
 2. [-] 应用层
 3. [ ] 运输层
 4. [ ] 网络层
@@ -161,6 +162,9 @@ SCHEDULED: <2016-03-18 Fri> DEADLINE: <2016-04-18 Mon>
 :LOGBOOK:
 CLOCK: [2016-03-18 Fri 18:18]--[2016-03-18 Fri 18:35] =>  0:17
 :END:
+** TODO [#A] 一个操作系统的实现                                 :@Computer:
+** TODO [#A] 汇编语言                                           :@Computer:
+** TODO [#A] Unix 环境高级编程                                   :@Computer:
 * Homework
 :PROPERTIES:
 :CATEGORY: HOMEWORK
@@ -184,6 +188,7 @@ CLOCK: [2016-03-14 Mon 19:29]--[2016-03-14 Mon 19:47] =>  0:18
 - [ ] P95 12-18 except 16
 - [ ] 空盘 爸放 儿桔 女苹
 DEADLINE: <2016-04-04 Mon>
+** TODO [#A] My culture story                                   :@Computer:
 * Art
 :PROPERTIES:
 :CATEGORY: ART
@@ -203,9 +208,12 @@ how to : read book
 ** TODO [#A] Use Emacs to develop C/C++<2016-03-15 Tue>          :@Computer:
 ** TODO [#A] Emacs MySql    <2016-03-17 Thu>                     :@Computer:
 ** TODO [#A] 进程和线程       <2016-03-21 Mon>                   :@Computer:
+** TODO [#A] WireShark        <2016-03-22 Tue>                   :@Computer:
 * Daily                                                              :@Daily:
 ** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
 :LOGBOOK:
+CLOCK: [2016-03-22 Tue 18:37]--[2016-03-22 Tue 18:58] =>  0:21
+CLOCK: [2016-03-22 Tue 18:08]--[2016-03-22 Tue 18:33] =>  0:25
 CLOCK: [2016-03-21 Mon 20:40]--[2016-03-21 Mon 21:07] =>  0:27
 CLOCK: [2016-03-19 Sat 11:00]--[2016-03-19 Sat 11:24] =>  0:24
 CLOCK: [2016-03-18 Fri 17:55]--[2016-03-18 Fri 18:09] =>  0:14
@@ -243,10 +251,11 @@ CLOCK: [2016-03-08 Tue 19:19]--[2016-03-08 Tue 19:44] =>  0:25
 12. [ ] Concurrent Programming
 SCHEDULED: <2016-03-08 Tue> DEADLINE: <2016-05-07 Sat>
 ** TODO [#A] Play Guitar                                             :@309:
-SCHEDULED: <2016-03-22 Tue .+1d>
+SCHEDULED: <2016-03-23 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2016-03-21 Mon 20:40]
+:LAST_REPEAT: [2016-03-22 Tue 17:56]
 :END:
+- State "DONE"       from "TODO"       [2016-03-22 Tue 17:56]
 - State "DONE"       from "TODO"       [2016-03-21 Mon 20:40]
 - State "DONE"       from "TODO"       [2016-03-18 Fri 18:16]
 - State "DONE"       from "TODO"       [2016-03-16 Wed 09:45]
@@ -274,6 +283,8 @@ SCHEDULED: <2016-04-13 Wed>
 *** TODO [#B] Learn Kaggle                                      :@Computer:
 ** TODO [#A] READ PRML[0%]                               :@Book:@Dormitory:
 :LOGBOOK:
+CLOCK: [2016-03-22 Tue 20:42]--[2016-03-22 Tue 21:07] =>  0:25
+CLOCK: [2016-03-22 Tue 20:12]--[2016-03-22 Tue 20:37] =>  0:25
 CLOCK: [2016-03-21 Mon 21:47]--[2016-03-21 Mon 22:39] =>  0:52
 CLOCK: [2016-03-19 Sat 11:50]--[2016-03-19 Sat 12:19] =>  0:29
 CLOCK: [2016-03-16 Wed 22:04]--[2016-03-16 Wed 22:22] =>  0:18
