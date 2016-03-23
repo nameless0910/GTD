@@ -7,25 +7,25 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-03-22 Tue 21:33]
-| Headline                                 |      Time |       |
-|------------------------------------------+-----------+-------|
-| *Total time*                             | *1d 4:20* |       |
-|------------------------------------------+-----------+-------|
-| BOOK                                     |     12:18 |       |
-| \_  TODO [#A]计算机网络-自顶向下方法[0%] |           |  4:45 |
-| \_  TODO [#B] 纽约摄影教程[5%]           |           |  2:00 |
-| \_  TODO [#C] 国际象棋                   |           |  0:26 |
-| \_  TODO [#A] 数据库[0%]                 |           |  4:20 |
-| \_  TODO [#B] Learn Emacs Lisp[0%]       |           |  0:30 |
-| \_  TODO [#A] 现代操作系统               |           |  0:17 |
-| Homework                                 |      0:18 |       |
-| \_  TODO [#A] Read English...            |           |  0:18 |
-| Art                                      |      1:30 |       |
-| \_  TODO [#B] Music Theory               |           |  1:30 |
-| Daily                                    |     14:14 |       |
-| \_  TODO [#A] CSAPP[8%]                  |           | 11:10 |
-| \_  TODO [#A] READ PRML[0%]              |           |  3:04 |
+#+CAPTION: Clock summary at [2016-03-23 Wed 21:43]
+| Headline                                  |      Time |       |
+|-------------------------------------------+-----------+-------|
+| *Total time*                              | *1d 5:41* |       |
+|-------------------------------------------+-----------+-------|
+| BOOK                                      |     12:18 |       |
+| \_  TODO [#A]计算机网络-自顶向下方法[11%] |           |  4:45 |
+| \_  TODO [#B] 纽约摄影教程[5%]            |           |  2:00 |
+| \_  TODO [#C] 国际象棋                    |           |  0:26 |
+| \_  TODO [#A] 数据库[0%]                  |           |  4:20 |
+| \_  TODO [#B] Learn Emacs Lisp[0%]        |           |  0:30 |
+| \_  TODO [#A] 现代操作系统                |           |  0:17 |
+| Homework                                  |      0:18 |       |
+| \_  TODO [#A] Read English...             |           |  0:18 |
+| Art                                       |      1:30 |       |
+| \_  TODO [#B] Music Theory                |           |  1:30 |
+| Daily                                     |     15:35 |       |
+| \_  TODO [#A] CSAPP[8%]                   |           | 12:00 |
+| \_  TODO [#A] READ PRML[0%]               |           |  3:35 |
 #+END:
 *  BOOK                                                               :@Book:
 :PROPERTIES:
@@ -169,8 +169,6 @@ CLOCK: [2016-03-18 Fri 18:18]--[2016-03-18 Fri 18:35] =>  0:17
 :PROPERTIES:
 :CATEGORY: HOMEWORK
 :END:
-** TODO [#A] PS                                                 :@Computer:
-DEADLINE: <2016-03-24 Thu> SCHEDULED: <2016-03-18 Fri>
 ** TODO [#A] Read English material<2016-03-14 Mon .+1w>          :@Computer:
 :PROPERTIES:
 :ARCHIVE_TIME: 2016-03-14 Mon 19:47
@@ -212,6 +210,8 @@ how to : read book
 * Daily                                                              :@Daily:
 ** TODO [#A] CSAPP[8%]                                   :@Book:@Dormitoryc:
 :LOGBOOK:
+CLOCK: [2016-03-23 Wed 19:43]--[2016-03-23 Wed 20:08] =>  0:25
+CLOCK: [2016-03-23 Wed 19:11]--[2016-03-23 Wed 19:36] =>  0:25
 CLOCK: [2016-03-22 Tue 18:37]--[2016-03-22 Tue 18:58] =>  0:21
 CLOCK: [2016-03-22 Tue 18:08]--[2016-03-22 Tue 18:33] =>  0:25
 CLOCK: [2016-03-21 Mon 20:40]--[2016-03-21 Mon 21:07] =>  0:27
@@ -282,7 +282,8 @@ SCHEDULED: <2016-04-13 Wed>
 *** APPT [#B] Learn Book R and Machine Learning                     :@Book:
 *** TODO [#B] Learn Kaggle                                      :@Computer:
 ** TODO [#A] READ PRML[0%]                               :@Book:@Dormitory:
-:LOGBOOK:
+ :LOGBOOK:
+CLOCK: [2016-03-23 Wed 20:45]--[2016-03-23 Wed 21:16] =>  0:31
 CLOCK: [2016-03-22 Tue 20:42]--[2016-03-22 Tue 21:07] =>  0:25
 CLOCK: [2016-03-22 Tue 20:12]--[2016-03-22 Tue 20:37] =>  0:25
 CLOCK: [2016-03-21 Mon 21:47]--[2016-03-21 Mon 22:39] =>  0:52
