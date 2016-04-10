@@ -192,3 +192,128 @@ CLOSED: [2016-03-23 Wed 17:40] DEADLINE: <2016-03-24 Thu> SCHEDULED: <2016-03-18
 :ARCHIVE_CATEGORY: HOMEWORK
 :ARCHIVE_TODO: DONE
 :END:
+
+* DONE [#A] 操作系统                                              :@Computer:
+CLOSED: [2016-03-27 Sun 17:14]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-27 Sun 17:14
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: HOMEWORK
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 读者-写者: 写一;读多;写优先
+- [X] P95 12-18 except 16
+- [X] 空盘 爸放 儿桔 女苹
+- [X] 循环轮转调度算法
+DEADLINE: <2016-04-04 Mon>
+
+* DONE [#A] TAOUP[20%]                                            :@Computer:
+CLOSED: [2016-03-28 Mon 19:16]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-28 Mon 19:17
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* CANCELLED [#A] 汇编语言                                         :@Computer:
+CLOSED: [2016-03-28 Mon 19:17]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-28 Mon 19:17
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* CANCELLED [#B] Learn Emacs Lisp[0%]                             :@Computer:
+CLOSED: [2016-03-28 Mon 19:17] SCHEDULED:
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-28 Mon 19:17
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+<2016-03-15 Tue>
+:LOGBOOK:
+CLOCK: [2016-03-15 Tue 10:30]--[2016-03-15 Tue 11:00] =>  0:30
+:END:
+1. [ ]  列表处理
+2. [ ] 求值实践
+3. [ ] 如何编写函数定义
+4. [ ] 与缓冲区有关的函数
+5. [ ] 更复杂的函数
+6. [ ] 变窄和增宽
+7. [ ] 基本函数：car,cdr,cons
+8. [ ] 剪切和储存文本
+9. [ ] 列表是如何实现的
+10. [ ] 找回文本
+11. [ ] 循环和递归
+12. [ ] 正则表达式查询
+13. [ ] 计数：重复和正则表达式
+14. [ ] 统计函数定义中的单词数
+15. [ ] 准备柱形图
+16. [ ] 配置你的.emacs 文件
+17. [ ] 调试
+18. [ ] 结论
+
+* CANCELLED [#A] 一个操作系统的实现                               :@Computer:
+CLOSED: [2016-03-28 Mon 19:18]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-28 Mon 19:18
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* CANCELLED [#A] 汇编语言程序设计                                 :@Computer:
+CLOSED: [2016-03-29 Tue 20:42]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-03-29 Tue 20:42
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* CANCELLED [#A] 计算机系统要素                                   :@Computer:
+CLOSED: [2016-04-01 Fri 13:41]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-04-01 Fri 13:41
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* CANCELLED [#A] Haskell 趣学指南                                 :@Computer:
+CLOSED: [2016-04-01 Fri 13:41]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-04-01 Fri 13:41
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: @Book
+:END:
+
+* DONE [#A] 一站式学习 c 编程                                       :@Computer:
+CLOSED: [2016-04-01 Fri 13:41]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-04-01 Fri 13:42
+:ARCHIVE_FILE: ~/GTD/tasks.org
+:ARCHIVE_OLPATH: BOOK
+:ARCHIVE_CATEGORY: BOOK
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: @Book
+:END:

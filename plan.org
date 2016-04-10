@@ -1,6 +1,24 @@
 #+STARTUP: hidestars
 #+STARTUP: content
 * CS
-** OS 
-*** NamelessOS with C and assumble
-*** NLispOS with lisp
+** Be a good programmer 
+*** Mater C/C++ Python R
+*** Master OS Network Algorithms DBS
+*** Learn Unix and gnu autotools
+*** Know Java Assumbly Lisp
+*** Know Complier Language
+*** Do a project
+*** Join a summer code
+*** Do oj
+** Learn Machine Learning
+*** Read PRML
+*** Read source of library
+* How to
+** Play Guitar third one week
+** Read PRML one hour every day
+** Learn C and OS Network Algorithms first
+* Now
+1. Read Pointers on c two chapters one day
+2. Read APUE
+3. Read Network
+4. Read MOS

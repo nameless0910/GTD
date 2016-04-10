@@ -649,4 +649,12 @@ equipped 装备
 derive 导出
 slightly 稍微
 irrespective 无关的
-instance
+encounter 遭遇
+restriction 限制
+destination 目的
+in addition 此外
+operand 运算对象
+arbitrary 任意的
+offset 抵消
+commandment 戒律
+hurdle
