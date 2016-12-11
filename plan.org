@@ -1,24 +1,167 @@
 #+STARTUP: hidestars
 #+STARTUP: content
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+#+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
+#+BEGIN: clocktable :maxlevel 2 :scope file
 * CS
-** Be a good programmer 
-*** Mater C/C++ Python R
-*** Master OS Network Algorithms DBS
-*** Learn Unix and gnu autotools
-*** Know Java Assumbly Lisp
-*** Know Complier Language
-*** Do a project
-*** Join a summer code
-*** Do oj
-** Learn Machine Learning
-*** Read PRML
-*** Read source of library
-* How to
-** Play Guitar third one week
-** Read PRML one hour every day
-** Learn C and OS Network Algorithms first
-* Now
-1. Read Pointers on c two chapters one day
-2. Read APUE
-3. Read Network
-4. Read MOS
+** Game programming
+*** Read Book
+***** Computer Science  
+****** CS Foundation 
+       - [ ] CSAPP
+       - [ ] SICP
+       - [ ] CAAQA
+       - [ ] MOS
+****** Algorithm 
+       - [ ] CLRS
+***** Programming Language
+****** C
+       - [ ] TCPL
+****** C++     
+       - [ ] CPPP
+******* C++ Standard Library
+        - [ ] The C++ Standard Library 2nd Ed
+        - [ ] Effective STL
+        - [ ] C++ Concurrency in Action
+        - [ ] The Boost C++ Libraries 2nd Ed
+******* C++ Pratice 
+        - [ ] Effective C++
+        - [ ] More Effective C++
+        - [ ] Effective Modern C++
+        - [ ] C++ Coding Standards
+        - [ ] Optimized C++
+******** Advanced C++
+         - [ ] Inside the C++ Object Model
+         - [ ] Imperfect C++
+         - [ ] C++ Templates
+         - [ ] Modern C++ Design
+         - [ ] Elements of Programming
+         - [ ] From Mathematics to Generic Programming
+****** Lua 
+       - [ ] Programming in Lua 4th Ed
+       - [ ] Lua Programming Gems
+****** C#
+       - [ ] Microsoft Visual C# Step by Step
+       - [ ] C# in Depth 3rd Ed
+       - [ ] CLR via C# 4th Ed 
+***** Software Development
+      - [ ] The Mythical Man-Month
+****** Pratice 
+       - [ ] The Pratice of Programming
+       - [ ] Refactoring
+       - [ ] Code Complete 2
+       - [ ] Code Clean
+       - [ ] Working Effectively with Legacy Code
+       - [ ] API Design of C++
+****** Design Pattern
+       - [ ] Agile Software Development
+       - [ ] Desing Pattern
+****** UML
+       - [ ] UML Distilled
+       - [ ] The Unified Modeling Language User Guide 2nd Ed
+       - [ ] Object-Oriented Analysis and Design with Applications 3rd Ed
+***** Mathematics for Game Programming
+      - [ ] Mathematics for 3D Game Programming and Computer Graphics
+      - [ ] Geometric Tools for Computer Graphics
+      - [ ] Geometric Tools for Computational Geometry
+***** Game Programming 
+****** From Windows/DirectX
+       - [ ] Game Coding Complete
+******* Intermediate Game Programming
+        - [ ] Game Programming Algorithms and Techniques
+        - [ ] Game Programming Patterns
+        - [ ] Game Programming Golden Rules
+******** Game Programming Articles
+         - [ ] Beginning Game Programming
+         - [ ] Advanced Game Programming
+         - [ ] Best of Game Programming Gems
+         - [ ] Game Programming Gems 1
+         - [ ] Game Programming Gems 2
+         - [ ] Game Programming Gems 3
+         - [ ] Game Programming Gems 4
+         - [ ] Game Programming Gems 5
+         - [ ] Game Programming Gems 6
+         - [ ] Game Programming Gems 7
+         - [ ] Game Programming Gems 8
+***** Game Engine Development
+      - [ ] GEA
+****** Game Engine Articles
+       - [ ] Game Engine Gems 1
+       - [ ] Game Engine Gems 2
+       - [ ] Game Engine Gems 3
+****** Script Engine       
+       - [ ] Game Scripting Mastery
+       - [ ] Language Implementation Patterns
+       - [ ] The Garbage Collection Handbook
+****** Optimization
+       - [ ] Video Game Optimization
+       - [ ] Hacker's Delight
+       - [ ] GPGPU Programming for Games and Science
+       - [ ] Modern X86 Assembly Language Programming
+       - [ ] Vector Games Math Processors
+***** CG
+      - [ ] Introduction to 3D Game Programming with DirectX 12
+      - [ ] Opengl Programming Guide 9th Ed
+      - [ ] Fundamentails of Computer Graphics 4th Ed
+****** Real-Time Rendering
+       - [ ] RTR 3rd Ed
+       - [ ] Graphics Programming Methods
+       - [ ] GPU Gems 
+       - [ ] GPU Gems 2
+       - [ ] GPU Gems 3
+       - [ ] GPU Pro 
+       - [ ] GPU Pro 2
+       - [ ] GPU Pro 3
+       - [ ] GPU Pro 4
+       - [ ] GPU Pro 5
+       - [ ] GPU Pro 6
+       - [ ] GPU Pro 7
+******* D3D
+        - [ ] Pratical Rendering and Computation with Direct3D 11
+******* Opengl 
+        - [ ] Graphics Shaders 2nd Ed
+        - [ ] OpenGL ES 3.0 Programming Guide 2nd Ed
+        - [ ] OpenGL Insights
+        - [ ] Vulkan Programming Guide
+***** Game Audio
+      - [ ] Getting Started with C++ Audio Programming for Game Development
+***** Game Physics and Animation
+      - [ ] The Nature of Code
+      - [ ] Physics of Game Developers 2nd Ed
+***** Game AI
+      - [ ] Artificial Intelligence for Games  2nd Ed
+      - [ ] AIMI
+***** Multiplayer Game Programming
+      - [ ] Multiplayer Game Programming
+****** Multiplayer Game Articles
+       - [ ] Massively Multiplayer Game Development
+       - [ ] Massively Multiplayer Game Development 2
+****** Server Programming
+       - [ ] Programming with POSIX Threads
+       - [ ] APUE
+****** Network Protocol
+       - [ ] TCP/IP Vol 1
+       - [ ] TCP/IP Vol 2
+       - [ ] TCP/IP Vol 3
+****** Network Programming
+       - [ ] UNP 1
+       - [ ] UNP 2
+       - [ ] Understanding Linux Network Internals
+** Tools 
+*** Emacs
+    - [ ] org
+*** VS
+** SourceCode
+*** Cocos2d-x 3.x
+*** Unreal Engine 
+
+* Language
+* New
+** TODO CLRS
+** TODO CPPP
+** TODO The Mythical Man-Month 
+** TODO Mathematics of 3D Game Programming and Computer Graphics
+** TODO Game Coding Complete
+** TODO GEA
+** TODO OpenGL Programming Guide 9th Ed
+** TODO Multiplayer Game Programming
