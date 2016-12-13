@@ -1,8 +1,12 @@
-#+STARTUP: hidestars
 #+STARTUP: content
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
-#+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
 #+BEGIN: clocktable :maxlevel 2 :scope file
+#+FILETAGS: :@plan:
+#+CAPTION: Clock summary at [2016-12-13 二 15:15]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END: cloacktable
 * CS
 ** Game programming
 *** Read Book
@@ -156,12 +160,4 @@
 *** Unreal Engine 
 
 * Language
-* New
-** TODO CLRS
-** TODO CPPP
-** TODO The Mythical Man-Month 
-** TODO Mathematics of 3D Game Programming and Computer Graphics
-** TODO Game Coding Complete
-** TODO GEA
-** TODO OpenGL Programming Guide 9th Ed
-** TODO Multiplayer Game Programming
+
