@@ -2,29 +2,74 @@
 #+PROPERTY: Effort_ALL  0:10 0:20 0:30 1:00 2:00 4:00 6:00 8:00
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
-#+FILETAGS :@task:
+#+FILETAGS: :@task:
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-12-14 周三 19:08]
-| Headline                      | Time   |      |
-|-------------------------------+--------+------|
-| *Total time*                  | *1:58* |      |
-|-------------------------------+--------+------|
-| BOOK                          | 1:58   |      |
-| \_  TODO Game Coding Complete |        | 1:58 |
+#+CAPTION: Clock summary at [2016-12-15 四 06:16]
+| Headline                           | Time   |      |
+|------------------------------------+--------+------|
+| *Total time*                       | *3:47* |      |
+|------------------------------------+--------+------|
+| BOOK                               | 3:47   |      |
+| \_  TODO Mathematics of 3D Game... |        | 0:54 |
+| \_  TODO Game Coding Complete[8%]  |        | 2:53 |
 #+END:
-*  BOOK                                                              :@book:
+* BOOK                                                               :@book:
 ** TODO CLRS
 ** TODO CPPP
 ** TODO The Mythical Man-Month 
-** TODO Mathematics of 3D Game Programming and Computer Graphics
-   DEADLINE: <2016-12-23 五> SCHEDULED: <2016-12-13 二>
-** TODO Game Coding Complete 
-   DEADLINE: <2016-12-31 周六> SCHEDULED: <2016-12-14 周三>
+** TODO Mathematics of 3D Game Programming and Computer Graphics[12%]
+   - [X] 渲染管线
+   - [X] 向量
+   - [ ] 矩阵
+   - [ ] 坐标变换
+   - [ ] 3D 引擎中的几何学
+   - [ ] 光线跟踪
+   - [ ] 光照与着色
+   - [ ] 可见性判断
+   - [ ] 多边形技术
+   - [ ] 阴影
+   - [ ] 曲线与曲面
+   - [ ] 碰撞检测
+   - [ ] 线性物理运动
+   - [ ] 旋转物理运动
+   - [ ] 流体与织物仿真
+   - [ ] 数值方法 
    :LOGBOOK:
+   CLOCK: [2016-12-13 二 18:48]--[2016-12-13 二 19:42] =>  0:54
+   :END:   
+   DEADLINE: <2016-12-23 五> SCHEDULED: <2016-12-13 二>
+** TODO Game Coding Complete[8%]
+   - [X] 什么是游戏编程
+   - [X] 游戏中有什么
+   - [ ] 拯救了我的编码趣闻和风格
+   - [ ] 生成游戏
+   - [ ] 游戏初始化和关闭
+   - [ ] 游戏主体和组件结构
+   - [ ] 主循环的控制
+   - [ ] 游戏数据的加载和缓存
+   - [ ] 输入设备编程
+   - [ ] 用户界面编程
+   - [ ] 游戏事件管理
+   - [ ] 使用 Lua 编写脚本
+   - [ ] 游戏音频
+   - [ ] 3D 图形基础
+   - [ ] 3D 顶点和像素着色器
+   - [ ] 3D 场景
+   - [ ] 碰撞和简单的物理学
+   - [ ] 游戏 AI 简介
+   - [ ] 多玩家游戏的网络编程
+   - [ ] 多道程序设计简介
+   - [ ] “茶壶大战”游戏
+   - [ ] C#中简单的游戏编辑器
+   - [ ] 对游戏进行调试和分析
+   - [ ] 驶向结束
+   :LOGBOOK:
+   CLOCK: [2016-12-15 四 05:21]--[2016-12-15 四 06:16] =>  0:55
    CLOCK: [2016-12-14 周三 19:02]--[2016-12-14 周三 19:08] =>  0:06
    CLOCK: [2016-12-14 周三 17:11]--[2016-12-14 周三 18:13] =>  1:02
    CLOCK: [2016-12-14 周三 16:15]--[2016-12-14 周三 17:05] =>  0:50
    :END:
+   DEADLINE: <2016-12-31 周六> SCHEDULED: <2016-12-14 周三>
 ** TODO GEA
 ** TODO OpenGL Programming Guide 9th Ed
 ** TODO Multiplayer Game Programming

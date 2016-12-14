@@ -153,8 +153,9 @@
         - [ ] UNP 2
         - [ ] Understanding Linux Network Internals
 **** Game Code Complete Book       
-***** 反模式：危机中软件架构和项目的重构
+***** AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis
 ***** c++设计新思维：泛型编程与设计模式之应用
+***** Thinking in C++
 ** Tools 
 *** Emacs
     - [ ] org
