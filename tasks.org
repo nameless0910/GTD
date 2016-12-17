@@ -4,16 +4,16 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+FILETAGS: :@task:
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-12-17 周六 21:55]
+#+CAPTION: Clock summary at [2016-12-18 周日 02:15]
 | Headline                           |    Time |      |
 |------------------------------------+---------+------|
-| *Total time*                       | *10:38* |      |
+| *Total time*                       | *13:17* |      |
 |------------------------------------+---------+------|
 | BOOK                               |    7:40 |      |
 | \_  TODO Mathematics of 3D Game... |         | 0:54 |
 | \_  TODO Game Coding Complete[29%] |         | 6:46 |
-| Homework                           |    2:58 |      |
-| \_  TODO OpenGL Game               |         | 2:58 |
+| Homework                           |    5:37 |      |
+| \_  TODO OpenGL Game               |         | 5:37 |
 #+END:
 * BOOK                                                               :@book:
 ** TODO CLRS
@@ -85,7 +85,10 @@
 ** TODO OpenGL Game                                              :@projects:
    DEADLINE: <2016-12-22 四> SCHEDULED: <2016-12-13 二>   
 :LOGBOOK:
-CLOCK: [2016-12-17 周六 11:35]--[2016-12-17 周六 11:53] =>  0:18
+CLOCK: [2016-12-18 周日 01:22]--[2016-12-18 周日 02:15] =>  0:53
+CLOCK: [2016-12-18 周日 00:08]--[2016-12-18 周日 00:49] =>  0:41
+   CLOCK: [2016-12-17 周六 22:35]--[2016-12-17 周六 23:40] =>  1:05
+   CLOCK: [2016-12-17 周六 11:35]--[2016-12-17 周六 11:53] =>  0:18
    CLOCK: [2016-12-16 周五 21:47]--[2016-12-16 周五 22:01] =>  0:14
    CLOCK: [2016-12-16 周五 20:00]--[2016-12-16 周五 20:30] =>  0:30
    CLOCK: [2016-12-16 周五 18:45]--[2016-12-16 周五 19:48] =>  1:03
