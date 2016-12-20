@@ -3,23 +3,53 @@
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+FILETAGS: :@task:
-#+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2016-12-18 周日 02:15]
-| Headline                           |    Time |      |
-|------------------------------------+---------+------|
-| *Total time*                       | *13:17* |      |
-|------------------------------------+---------+------|
-| BOOK                               |    7:40 |      |
-| \_  TODO Mathematics of 3D Game... |         | 0:54 |
-| \_  TODO Game Coding Complete[29%] |         | 6:46 |
-| Homework                           |    5:37 |      |
-| \_  TODO OpenGL Game               |         | 5:37 |
+#+BEG\IN: clocktable :maxlevel 2 :scope file
+#+CAPTION: Clock summary at [2016-12-20 周二 23:17]
+| Headline                                |    Time |       |
+|-----------------------------------------+---------+-------|
+| *Total time*                            | *21:49* |       |
+|-----------------------------------------+---------+-------|
+| BOOK                                    |   15:34 |       |
+| \_  TODO [#A] Windows 程序设计          |         |  1:22 |
+| \_  TODO [#B] Mathematics of 3D Game... |         |  0:54 |
+| \_  TODO [#A] Game Coding Complete[29%] |         | 13:18 |
+| Homework                                |    6:15 |       |
+| \_  TODO [#A] OpenGL Game               |         |  6:15 |
 #+END:
 * BOOK                                                               :@book:
-** TODO CLRS
-** TODO CPPP
-** TODO The Mythical Man-Month 
-** TODO Mathematics of 3D Game Programming and Computer Graphics[12%]
+** TODO [#C] CLRS
+** TODO [#A] Windows 核心编程
+** TODO [#A] Windows 程序设计
+   - [X] 起步
+   - [X] Unicode 简介
+   - [X] 窗口与消息
+   - [ ] 文本输出
+   - [ ] 绘图基础
+   - [ ] 键盘
+   - [ ] 鼠标
+   - [ ] 计时器
+   - [ ] 子窗口控件
+   - [ ] 菜单和其他资源
+   - [ ] 对话框
+   - [ ] 剪贴板
+   - [ ] 使用打印机
+   - [ ] 位图和位块传输
+   - [ ] 设备无关位图
+   - [ ] 调色板管理器
+   - [ ] 文本和字体
+   - [ ] 图元文件
+   - [ ] 多文档界面
+   - [ ] 多任务和多线程
+   - [ ] 动态链接库
+   - [ ] 声音和音乐
+   - [ ] 尝试互联网
+   :LOGBOOK:
+   CLOCK: [2016-12-19 周一 13:13]--[2016-12-19 周一 13:52] =>  0:39
+   CLOCK: [2016-12-19 周一 12:10]--[2016-12-19 周一 12:47] =>  0:37
+   CLOCK: [2016-12-19 周一 12:01]--[2016-12-19 周一 12:07] =>  0:06
+   :END:
+** TODO [#B] CPPP
+** TODO [#B] Mathematics of 3D Game Programming and Computer Graphics[12%]
    - [X] 渲染管线
    - [X] 向量
    - [ ] 矩阵
@@ -35,12 +65,12 @@
    - [ ] 线性物理运动
    - [ ] 旋转物理运动
    - [ ] 流体与织物仿真
-   - [ ] 数值方法 
-   :LOGBOOK:
-   CLOCK: [2016-12-13 二 18:48]--[2016-12-13 二 19:42] =>  0:54
-   :END:   
+   - [ ] 数值方法   
    DEADLINE: <2016-12-23 五> SCHEDULED: <2016-12-13 二>
-** TODO Game Coding Complete[29%]
+    :LOGBOOK:
+    CLOCK: [2016-12-13 二 18:48]--[2016-12-13 二 19:42] =>  0:54
+   :END:   
+** TODO [#A] Game Coding Complete[29%]
    - [X] 什么是游戏编程
    - [X] 游戏中有什么
    - [X] 拯救了我的编码趣闻和风格
@@ -66,6 +96,17 @@
    - [ ] 对游戏进行调试和分析
    - [ ] 驶向结束
    :LOGBOOK:
+   CLOCK: [2016-12-20 周二 23:33]--[2016-12-20 周二 23:46] =>  0:13
+   CLOCK: [2016-12-20 周二 21:45]--[2016-12-20 周二 23:17] =>  1:32
+   CLOCK: [2016-12-20 周二 18:01]--[2016-12-20 周二 19:00] =>  0:59
+   CLOCK: [2016-12-20 周二 16:59]--[2016-12-20 周二 17:28] =>  0:29
+   CLOCK: [2016-12-20 周二 07:57]--[2016-12-20 周二 08:44] =>  0:47
+   CLOCK: [2016-12-20 周二 05:05]--[2016-12-20 周二 06:25] =>  1:20
+   CLOCK: [2016-12-19 周一 15:43]--[2016-12-19 周一 15:47] =>  0:04
+   CLOCK: [2016-12-19 周一 15:29]--[2016-12-19 周一 15:41] =>  0:12
+   CLOCK: [2016-12-19 周一 15:23]--[2016-12-19 周一 15:26] =>  0:03
+   CLOCK: [2016-12-19 周一 15:06]--[2016-12-19 周一 15:19] =>  0:13
+   CLOCK: [2016-12-18 周日 01:22]--[2016-12-18 周日 02:15] =>  0:53
    CLOCK: [2016-12-17 周六 20:47]--[2016-12-17 周六 21:55] =>  1:08
    CLOCK: [2016-12-16 周五 22:02]--[2016-12-16 周五 22:19] =>  0:17
    CLOCK: [2016-12-15 周四 15:11]--[2016-12-15 周四 16:41] =>  1:30
@@ -78,15 +119,16 @@
    CLOCK: [2016-12-14 周三 16:15]--[2016-12-14 周三 17:05] =>  0:50
    :END:
    DEADLINE: <2016-12-31 周六> SCHEDULED: <2016-12-14 周三>
-** TODO GEA
-** TODO OpenGL Programming Guide 9th Ed
-** TODO Multiplayer Game Programming
+** TODO [#C] GEA
+** TODO [#C] OpenGL Programming Guide 9th Ed
+** TODO [#C] Multiplayer Game Programming
 * Homework
-** TODO OpenGL Game                                              :@projects:
-   DEADLINE: <2016-12-22 四> SCHEDULED: <2016-12-13 二>   
-:LOGBOOK:
-CLOCK: [2016-12-18 周日 01:22]--[2016-12-18 周日 02:15] =>  0:53
-CLOCK: [2016-12-18 周日 00:08]--[2016-12-18 周日 00:49] =>  0:41
+** TODO [#A] OpenGL Game                                         :@projects:
+   DEADLINE: <2016-12-29 四> SCHEDULED: <2016-12-13 二>   
+   :LOGBOOK:
+   CLOCK: [2016-12-18 周日 16:02]--[2016-12-18 周日 16:40] =>  0:38
+   CLOCK: [2016-12-18 周日 01:22]--[2016-12-18 周日 02:15] =>  0:53
+   CLOCK: [2016-12-18 周日 00:08]--[2016-12-18 周日 00:49] =>  0:41
    CLOCK: [2016-12-17 周六 22:35]--[2016-12-17 周六 23:40] =>  1:05
    CLOCK: [2016-12-17 周六 11:35]--[2016-12-17 周六 11:53] =>  0:18
    CLOCK: [2016-12-16 周五 21:47]--[2016-12-16 周五 22:01] =>  0:14
@@ -98,4 +140,5 @@ CLOCK: [2016-12-18 周日 00:08]--[2016-12-18 周日 00:49] =>  0:41
    :END:
 * Things
 * Daily                                                             :@daily:
+
 
