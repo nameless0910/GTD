@@ -156,6 +156,7 @@
 ***** AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis
 ***** c++设计新思维：泛型编程与设计模式之应用
 ***** Thinking in C++
+***** Level of Detail for 3D Graphics
 **** My list
 ***** OpenGL 游戏程序设计
 ** Tools 
