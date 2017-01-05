@@ -22,7 +22,7 @@
 ****** Programming Language
 ******* C
         - [ ] TCPL
-******* C++     
+******* C++
         - [ ] CPPP
 ******** C++ Standard Library
          - [ ] The C++ Standard Library 2nd Ed
@@ -136,6 +136,10 @@
 ****** Game AI
        - [ ] Artificial Intelligence for Games  2nd Ed
        - [ ] AIMI
+       - [ ] AI Game Programming Wisdom
+       - [ ] AI Game Programming Wisdom 2
+       - [ ] AI Game Programming Wisdom 3
+       - [ ] AI Game Programming Wisdom 4
 ****** Multiplayer Game Programming
        - [ ] Multiplayer Game Programming
 ******* Multiplayer Game Articles
@@ -153,12 +157,16 @@
         - [ ] UNP 2
         - [ ] Understanding Linux Network Internals
 **** Game Code Complete Book       
-***** AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis
-***** c++设计新思维：泛型编程与设计模式之应用
-***** Thinking in C++
-***** Level of Detail for 3D Graphics
+     - [ ] AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis
+     - [ ] c++设计新思维：泛型编程与设计模式之应用
+     - [ ] Thinking in C++
+     - [ ] C++算法
+     - [ ] Beyond the C++ Standard Library
+     - [ ] Programming Vertex and Pixel Shaders
+     - [ ] 现代操作系统
+     - [ ] 逆向工程揭秘
 **** My list
-***** OpenGL 游戏程序设计
+     - [X] OpenGL 游戏程序设计
 ** Tools 
 *** Emacs
     - [ ] org
@@ -169,5 +177,8 @@
 ** Windows
 *** Windows 程序设计
 *** Windows 核心编程
+** Book 
+   - [X] 程序员的思维修炼
+   - [ ] 
 * Language
 
