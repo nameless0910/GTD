@@ -167,12 +167,12 @@
      - [ ] 逆向工程揭秘
 **** My list
      - [X] OpenGL 游戏程序设计
+     - [ ] Unity 权威讲解
 ** Tools 
 *** Emacs
     - [ ] org
 *** VS
 ** SourceCode
-*** Cocos2d-x 3.x
 *** Unreal Engine 
 ** Windows
    - [ ] Windows 程序设计
@@ -182,7 +182,7 @@
    - [X] 冒号课堂
    - [ ] 网络游戏核心技术与实战
    - [ ] 面向对象的游戏开发
-   - [ ] 游戏编程之从零开始
-   - [ ] 软件开发者路线图
+   - [X] 软件开发者路线图
+   - [ ] 程序员修炼之道
 * Language
 

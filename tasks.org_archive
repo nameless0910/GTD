@@ -119,3 +119,37 @@
   CLOCK: [2017-01-10 周二 17:15]--[2017-01-10 周二 17:53] =>  0:38
   CLOCK: [2017-01-10 周二 16:47]--[2017-01-10 周二 17:14] =>  0:27
   :END:
+
+* CANCELLED [#B] Visual Studio Hacks
+  CLOSED: [2017-01-17 周二 22:45]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-17 周二 22:45
+  :ARCHIVE_FILE: ~/GTD/tasks.org
+  :ARCHIVE_OLPATH: BOOK
+  :ARCHIVE_CATEGORY: tasks
+  :ARCHIVE_TODO: CANCELLED
+  :ARCHIVE_ITAGS: @task @book
+  :END:
+  - State "CANCELLED"  from "TODO"       [2017-01-17 周二 22:45] \\
+    old
+  :LOGBOOK:
+  CLOCK: [2016-12-30 周五 20:56]--[2016-12-30 周五 21:00] =>  0:04
+  CLOCK: [2016-12-30 周五 17:34]--[2016-12-30 周五 17:40] =>  0:06
+  :END:
+
+* CANCELLED [#B] 我所理解的 COCOS2D-X 
+  CLOSED: [2017-01-17 周二 22:48]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-17 周二 22:48
+  :ARCHIVE_FILE: ~/GTD/tasks.org
+  :ARCHIVE_OLPATH: BOOK
+  :ARCHIVE_CATEGORY: tasks
+  :ARCHIVE_TODO: CANCELLED
+  :ARCHIVE_ITAGS: @task @book
+  :END:
+  - State "CANCELLED"  from "TODO"       [2017-01-17 周二 22:48] \\
+    cocos2dx is a garbage
+  :LOGBOOK:
+  CLOCK: [2017-01-05 周四 22:07]--[2017-01-05 周四 22:15] =>  0:08
+  CLOCK: [2017-01-05 周四 20:48]--[2017-01-05 周四 20:54] =>  0:06
+  :END:
