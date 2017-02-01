@@ -153,3 +153,21 @@
   CLOCK: [2017-01-05 周四 22:07]--[2017-01-05 周四 22:15] =>  0:08
   CLOCK: [2017-01-05 周四 20:48]--[2017-01-05 周四 20:54] =>  0:06
   :END:
+
+* CANCELLED learnopengl
+  CLOSED: [2017-01-30 周一 23:30]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-30 周一 23:31
+  :ARCHIVE_FILE: ~/GTD/tasks.org
+  :ARCHIVE_OLPATH: Things
+  :ARCHIVE_CATEGORY: tasks
+  :ARCHIVE_TODO: CANCELLED
+  :ARCHIVE_ITAGS: @task
+  :END:
+  - State "CANCELLED"  from "TODO"       [2017-01-30 周一 23:30] \\
+    已经不需要了，不如一步到位
+  :LOGBOOK:
+  CLOCK: [2017-01-30 周一 22:21]--[2017-01-30 周一 23:02] =>  0:41
+  CLOCK: [2017-01-30 周一 21:21]--[2017-01-30 周一 22:09] =>  0:48
+  CLOCK: [2017-01-30 周一 20:31]--[2017-01-30 周一 21:16] =>  0:45
+  :END:
