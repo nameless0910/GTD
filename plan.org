@@ -26,7 +26,7 @@
         - [X] CPPP
 ******** C++ Standard Library
          - [ ] The C++ Standard Library 2nd Ed
-         - [ ] Effective STL
+         - [X] Effective STL
          - [ ] C++ Concurrency in Action
          - [ ] The Boost C++ Libraries 2nd Ed
 ******** C++ Pratice 
