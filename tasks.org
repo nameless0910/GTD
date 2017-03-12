@@ -674,6 +674,48 @@
    CLOCK: [2017-03-11 周六 14:34]--[2017-03-11 周六 15:10] =>  0:36
    CLOCK: [2017-03-11 周六 12:45]--[2017-03-11 周六 13:10] =>  0:25
    :END:
+** TODO [#A] Unix Network Programming[3%]
+   - [X] Introdxuction
+   - [ ] TCP UDP SCTP
+   - [ ] Sockets Introduction
+   - [ ] Elementary TCP Sockets
+   - [ ] TCP Client/Server Example
+   - [ ] I/O Multiplexing: select and poll
+   - [ ] Socket Options
+   - [ ] Elementary UDP Sockets
+   - [ ] Elementary SCTP Sockets
+   - [ ] SCTP Client/Server Example
+   - [ ] Name and Address Coversions
+   - [ ] IPv4 and IPv6 Interoperability
+   - [ ] Deamon Processes and the inetd Superserver
+   - [ ] Advanced I/O Functions
+   - [ ] Unix Domain Protocols
+   - [ ] Nonblocking I/O
+   - [ ] ioctl Operations
+   - [ ] Routing Sockets
+   - [ ] Key Management Sockets
+   - [ ] Broadcasting
+   - [ ] Muliticasting
+   - [ ] Advanced UDP Sockets
+   - [ ] Advanced SCTP Sockets
+   - [ ] Out of Band Data
+   - [ ] Signal-Driven I/O
+   - [ ] Threads
+   - [ ] IP Options
+   - [ ] Raw Sockets
+   - [ ] Datalink Access
+   - [ ] Client/Server Design Alternatives
+   - [ ] STREAMS
+   - [ ] Appendix
+   :LOGBOOK:
+   CLOCK: [2017-03-12 Sun 22:13]--[2017-03-12 Sun 22:50] =>  0:37
+   CLOCK: [2017-03-12 Sun 18:52]--[2017-03-12 Sun 19:09] =>  0:17
+   CLOCK: [2017-03-12 Sun 17:35]--[2017-03-12 Sun 18:26] =>  0:51
+   CLOCK: [2017-03-12 Sun 15:38]--[2017-03-12 Sun 16:05] =>  0:27
+   CLOCK: [2017-03-12 Sun 13:10]--[2017-03-12 Sun 13:40] =>  0:30
+   CLOCK: [2017-03-11 Sat 17:24]--[2017-03-11 Sat 18:09] =>  0:45
+   CLOCK: [2017-03-11 Sat 16:13]--[2017-03-11 Sat 17:08] =>  0:55
+   :END:
 * Homework
 * Things
 ** TODO Blog
