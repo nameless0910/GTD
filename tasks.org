@@ -4,12 +4,12 @@
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+FILETAGS: :@task:
 #+BEGIN: clocktable :maxlevel 2 :scope file
-#+CAPTION: Clock summary at [2017-03-08 周三 22:09]
+#+CAPTION: Clock summary at [2017-03-13 Mon 18:09]
 | Headline                                   | Time       |         |
 |--------------------------------------------+------------+---------|
-| *Total time*                               | *3d 19:17* |         |
+| *Total time*                               | *3d 19:57* |         |
 |--------------------------------------------+------------+---------|
-| BOOK                                       | 3d 19:17   |         |
+| BOOK                                       | 3d 19:57   |         |
 | \_  TODO [#A] OpenGL Programming Guide[8%] |            |    2:56 |
 | \_  TODO [#A] Unity 权威讲解[33%]          |            |    6:52 |
 | \_  TODO [#A] 数据库系统概念[16%]          |            |    4:49 |
@@ -27,13 +27,15 @@
 | \_  TODO [#B] 代码大全 2[5%]               |            |    0:36 |
 | \_  WAIT [#C] C++模板元编程[58%]           |            |    9:13 |
 | \_  TODO [#B] 面向对象分析与设计[0%]       |            |    0:45 |
-| \_  TODO [#B] Effective STL[100%]          |            |    7:37 |
 | \_  TODO [#B] 编程原本[8%]                 |            |    1:00 |
 | \_  TODO [#A] 算法[0%]                     |            |    1:42 |
-| \_  TODO [#B] Effective STL[50%]           |            |    3:07 |
 | \_  TODO [#A] 泛型编程与 STL[0%]           |            |    0:27 |
 | \_  TODO [#A] 第一行代码[6%]               |            |    1:08 |
-| \_  TODO [#B] STL 源码剖析[11%]            |            |    1:38 |
+| \_  TODO [#B] STL 源码剖析[11%]            |            |    2:39 |
+| \_  TODO [#A] Effective C++[33%]           |            |    2:48 |
+| \_  TODO [#A] Linux 多线程服务端编程[18%]  |            |    0:56 |
+| \_  TODO [#A] TCP/IP 详解[0%]p.6           |            |    1:01 |
+| \_  TODO [#A] Unix Network Programming[6%] |            |    5:38 |
 #+END:
 * BOOK                                                               :@book:
 ** TODO [#A] CLRS
@@ -674,9 +676,9 @@
    CLOCK: [2017-03-11 周六 14:34]--[2017-03-11 周六 15:10] =>  0:36
    CLOCK: [2017-03-11 周六 12:45]--[2017-03-11 周六 13:10] =>  0:25
    :END:
-** TODO [#A] Unix Network Programming[3%]
+** TODO [#A] Unix Network Programming[6%]
    - [X] Introdxuction
-   - [ ] TCP UDP SCTP
+   - [X] TCP UDP SCTP
    - [ ] Sockets Introduction
    - [ ] Elementary TCP Sockets
    - [ ] TCP Client/Server Example
@@ -708,6 +710,8 @@
    - [ ] STREAMS
    - [ ] Appendix
    :LOGBOOK:
+   CLOCK: [2017-03-13 Mon 17:48]--[2017-03-13 Mon 18:09] =>  0:21
+   CLOCK: [2017-03-13 Mon 16:17]--[2017-03-13 Mon 17:12] =>  0:55
    CLOCK: [2017-03-12 Sun 22:13]--[2017-03-12 Sun 22:50] =>  0:37
    CLOCK: [2017-03-12 Sun 18:52]--[2017-03-12 Sun 19:09] =>  0:17
    CLOCK: [2017-03-12 Sun 17:35]--[2017-03-12 Sun 18:26] =>  0:51
