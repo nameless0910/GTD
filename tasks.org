@@ -809,16 +809,19 @@
    CLOCK: [2017-04-19 周三 16:45]--[2017-04-19 周三 17:04] =>  0:19
    CLOCK: [2017-04-19 周三 14:43]--[2017-04-19 周三 15:33] =>  0:50
    :END:
-** TODO [#A] Exceptional C++[25%]
+** TODO [#A] Exceptional C++[50%]
    - [X] 泛型程序设计与 C++标准库
    - [X] 异常安全性相关的问题与技术
-   - [ ] 类的设计与继承
-   - [ ] 编译器防火墙和 pimpl
+   - [X] 类的设计与继承
+   - [X] 编译器防火墙和 pimpl
    - [ ] 名字查找，名字空间和接口规则
    - [ ] 内存管理
    - [ ] 误区，陷阱以及错误的惯用法
    - [ ] 其他主题
    :LOGBOOK:
+   CLOCK: [2017-05-02 Tue 12:05]--[2017-05-02 Tue 12:23] =>  0:18
+   CLOCK: [2017-05-01 Mon 23:20]--[2017-05-01 Mon 23:23] =>  0:03
+   CLOCK: [2017-05-01 Mon 22:50]--[2017-05-01 Mon 23:15] =>  0:25
    CLOCK: [2017-04-25 周二 10:10]--[2017-04-25 周二 10:43] =>  0:33
    CLOCK: [2017-04-25 周二 08:00]--[2017-04-25 周二 08:45] =>  0:45
    CLOCK: [2017-04-24 周一 09:39]--[2017-04-24 周一 11:01] =>  1:22
@@ -846,6 +849,60 @@
    - [ ] The Standard Library
    :LOGBOOK:
    CLOCK: [2017-04-24 周一 20:19]--[2017-04-24 周一 20:23] =>  0:04
+   :END:
+** TODO [#A] A Practical Introduction to Data Structures and Algorithm Analysis[%]
+   - [ ] Data Structures and Algorithm
+   - [ ] Mathematical Perliminaries
+   - [ ] Algorithm Analysis
+   - [ ] Lists,Stacks,and Queues
+   - [ ] Binary Trees
+   - [ ] Non-Binary Tree
+   - [ ] Internal Sorting
+   - [ ] File Processing and External Sorting
+   - [ ] Searching
+   - [ ] Indexing
+   - [ ] Graphs
+   - [ ] Lists and Arrays Revisited
+   - [ ] Advanced Tree Structures
+   - [ ] Analysis Techniques
+   - [ ] Limits to Computations
+   :LOGBOOK:
+   CLOCK: [2017-04-26 Wed 22:35]--[2017-04-26 Wed 22:47] =>  0:12
+   :END:
+** TODO [#A] Beyond the C++ Standard Library[0%]
+   - [ ] smart_ptr
+   - [ ] Conversion
+   - [ ] Utility
+   - [ ] Operators
+   - [ ] Regex
+   - [ ] Any
+   - [ ] Variant
+   - [ ] Tuple
+   - [ ] Bind
+   - [ ] Lambda
+   - [ ] Fuction
+   - [ ] Signals
+   :LOGBOOK:
+   CLOCK: [2017-05-02 Tue 15:25]--[2017-05-02 Tue 15:48] =>  0:23
+   CLOCK: [2017-05-02 Tue 12:28]--[2017-05-02 Tue 13:02] =>  0:34
+   CLOCK: [2017-05-01 Mon 19:09]--[2017-05-01 Mon 19:21] =>  0:12
+   CLOCK: [2017-04-28 Fri 12:13]--[2017-04-28 Fri 12:24] =>  0:11
+   CLOCK: [2017-04-27 Thu 22:46]--[2017-04-27 Thu 23:20] =>  0:34
+   :END:
+** TODO [#A] C++ Network Programming v1[0%]
+   - [ ] Zero
+   - [ ] Message Design Place
+   - [ ] Socket API
+   - [ ] ACE Socket wrapper
+   - [ ] Network Log
+   - [ ] Concurry Design Place
+   - [ ] OS Concurry
+   - [ ] ACE sync
+   - [ ] ACE processer
+   - [ ] ACE thread
+   - [ ] ACE asyn
+   :LOGBOOK:
+   CLOCK: [2017-04-28 Fri 13:45]--[2017-04-28 Fri 13:58] =>  0:13
    :END:
 * Homework
 * Things
